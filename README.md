@@ -2,7 +2,7 @@
 
 Hello, Neighbors! We are working to form a Firewise community and need your help.
 
-## Why Join Firewise?
+## Why Join Firewise
 
 As we all know, living in the Santa Cruz Mountains is a beautiful experience but also a great challenge. Our forest ecosystem has undergone major changes in the last 150 years and needs our stewardship to adapt and thrive. We have learned from recent wildfire activity that we need to do more. The Fire Safe Council of Santa Cruz formed in 2016 to educate and mobilize local residents to protect their lives, homes, communities, and environment from wildfire. The first step is to join Firewise! Firewise communities are self-organized neighborhoods recognized by the National Fire Protection Agency that build community resilience to wildfire and support the health of the forest and riparian ecosystems we are a part of and love so much. 
 
