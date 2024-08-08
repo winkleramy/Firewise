@@ -24,11 +24,11 @@ So far, we have two people willing to participate in our steering committee, whi
 Steering Committee
 1. Amy Winkler, Mount Bache
 2. Merry Fay, Rancho Prieta
-3. ? Mar Vista
-4. ? Loma Prieta Way
-5. ? Haven Hill
+3. *? Mar Vista*
+4. *? Loma Prieta Way*
+5. *? Haven Hill*
 
-<img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800" height="400">
+<img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800">
 
 ### Step 2: Perform community risk assessment with a local fire professional
 
