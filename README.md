@@ -4,7 +4,7 @@ Hello, Neighbors! We are working to form a Firewise community and need your help
 
 ## Why Join Firewise
 
-As we all know, living in the Santa Cruz Mountains is a beautiful experience but also a great challenge. Our forest ecosystem has undergone major changes in the last 150 years and needs our stewardship to adapt and thrive. We have learned from recent wildfire activity that we need to do more. The Fire Safe Council of Santa Cruz formed in 2016 to educate and mobilize local residents to protect their lives, homes, communities, and environment from wildfire. The first step is to join Firewise! Firewise communities are self-organized neighborhoods recognized by the National Fire Protection Agency that build community resilience to wildfire and support the health of the forest and riparian ecosystems we are a part of and love so much. 
+As we all know, living in the Santa Cruz Mountains is a beautiful experience but also a great challenge. Our forest ecosystem has undergone major changes in the last 150 years and needs our stewardship to adapt and thrive. We have learned from recent wildfire activity that we need to do more. The Fire Safe Council of Santa Cruz formed in 2016 to educate and mobilize local residents to protect their lives, homes, communities, and environment from wildfire. The first step is to join Firewise! Firewise communities are self-organized neighborhoods, recognized by the National Fire Protection Agency, that build community resilience to wildfire and support the health of the forest and riparian ecosystems we are a part of and love so much. 
 
 ## How to Join Firewise
 
@@ -15,7 +15,7 @@ As we all know, living in the Santa Cruz Mountains is a beautiful experience but
 5. Document community's annual efforts, e.g. cleaning gutters, yard work, any home hardening improvements. Show at least one hour or $30 spent per year per household for these activities.
 6. Create an online account. Submit documentation from previous steps. Renew every three years.
 
-So what progress have we made so far and what do we have left to do?
+**So what progress have we made so far and what do we have left to do?**
 
 ### Step 1: Form a steering committee and determine a community boundary
 
@@ -32,7 +32,9 @@ Steering Committee
 
 ### Step 2: Perform community risk assessment with a local fire professional
 
-A community risk assessment needs to be performed initially to apply for Firewise and then once every five years to remain in good standing. The steering committee is responsible for completing the community risk assessment document with input from all participating residents. Every participant can help by answering the community risk assessment questions for their own property. The data submitted to Firewise is aggregated - *no individual property is called out* - effectively anonymizing individual responses.
+A community risk assessment needs to be performed initially to apply for Firewise and then once every five years to remain in good standing. The steering committee is responsible for completing the community risk assessment document with input from all participating residents. Every participant can help by answering the community risk assessment questions for their own property and sharing with our steering committee by emailing Amy at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Firewise%20Community%20Risk%20Assessment). 
+
+The data submitted to Firewise is aggregated - *no individual property is called out* - effectively anonymizing individual responses.
 
 [Click here to go to Community Risk Assessment](Firewise%20Community%20Assessment%20-%20Mount%20Bache.pdf)
 
@@ -40,16 +42,16 @@ A community risk assessment needs to be performed initially to apply for Firewis
 
 This year, 2024, our community event is a Zoom call with Lynn Sestak, volunteering as the Firewise Coordinator for Santa Cruz County, to share information and answer questions about Firewise. This event takes place Thursday, August 8, at 6pm. A recording of Lynn's Zoom presentation will be shared afterwards.
 
-In order to share information about this event and future events, our steering committee needs to know how to best contact the Firewise participants in our community. Please share your name, mailing address, email address, and/or phone number with our steering committee by emailing Amy at winkleramy@gmail.com
+In order to share information about this event and future events, our steering committee needs to know how to best contact you. To stay informed, please share your name, mailing address, email address, and/or phone number with our steering committee by emailing Amy at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20with%20Firewise%20Updates)
 
 ### Step 4: Develop a three-year plan
 
 This plan is informed by the community risk assessment and by the shared concerns of our residents. Please let our steering committee know what issues you would like our Firewise community to focus on, such as:
 
-- Home Hardening *Embers are the #1 cause of home ignition during wildfire! Hardening the home and Zone 0 yard against embers is the most cost effective*
-- Fuel Reduction & Defensible Space *Direct flames and radiant heat are the two additional paths to home ignition. Keep fire as far away and as low intensity as possible. Defensible Space is required by law and increases the odds that firefighters will be willing to “make a stand” for our homes*
-- Wildfire Preparedness & Evacuation Planning *Prepare our neighborhood to quickly and safely evacuate if need be. Make it easy for first responder vehicles to drive in. Some communities have phone chains or a WhatsApp group to share evacuation information and check on neighbors.*
-- Education & Outreach *Learn and share how to manage our forest and riparian areas to promote a healthy and resilient ecosystem. Learn about and share county resources and information on home hardening and defensible space.*
+- **Home Hardening:** Embers are the #1 cause of home ignition during wildfire! Hardening the home and Zone 0 yard against embers is the most cost effective
+- **Fuel Reduction & Defensible Space:** Direct flames and radiant heat are the two additional paths to home ignition. Keep fire as far away and as low intensity as possible. Defensible Space is required by law and increases the odds that firefighters will be willing to “make a stand” for our homes
+- **Wildfire Preparedness & Evacuation Planning:** Prepare our neighborhood to quickly and safely evacuate if need be. Make it easy for first responder vehicles to drive in. Some communities have phone chains or a WhatsApp group to share evacuation information and check on neighbors.
+- **Education & Outreach:** Learn and share how to manage our forest and riparian areas to promote a healthy and resilient ecosystem. Learn about and share county resources and information on home hardening and defensible space.
 
 ### Step 5: Document community's annual efforts
 
