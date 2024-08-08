@@ -21,4 +21,4 @@ So what progress have we made so far?
 
 We have two people willing to participate in our steering committee, which is the minimum required. We would like three more people, especially from natural sub-groups of our neighborhood.
 
-
+<img src="Resources/Mount Bache Neighborhood Subgroup.png" alt="Mount Bache Neighborhood Subgroups" width="300" height="200">
