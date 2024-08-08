@@ -38,4 +38,27 @@ A community risk assessment needs to be performed initially to apply for Firewis
 
 ### Step 3: Host or attend an educational event once per year
 
-This year, our community event is a zoom call with Lynn Sestak, informing us about Firewise
+This year, our community event is a zoom call with Lynn Sestak, volunteering as the Firewise Coordinator for Santa Cruz County, to share information and answer questions about Firewise. This event takes place Thursday, August 8, at 6pm. A recording of the event will be shared afterwards.
+
+In order to share information about this event and future events, our steering committee needs to know how to best contact the Firewise participants in our community. Please share your name, mailing address, email address, and/or phone number with our steering committee by emailing Amy at winkleramy@gmail.com
+
+### Step 4: Develop a three-year plan
+
+This plan is informed by the community risk assessment as well as shared concerns by Firewise participants. Please let our steering committee know what issues you would like our Firewise community to focus on:
+
+- Home Hardening *Embers are the #1 cause of home ignition during wildfire! Hardening the home and Zone 0 yard against embers is the most cost effective*
+- Fuel Reduction & Defensible Space *Direct flames and radiant heat are the two additional paths to home ignition. Keep fire as far away and as low intensity as possible. Defensible Space is required by law and increases the odds that firefighters will be willing to “make a stand” for our homes*
+- Wildfire Preparedness & Evacuation Planning *Prepare our neighborhood to quickly and safely evacuate if need be. Make it easy for first responder vehicles to drive in. Some communities have phone chains or a WhatsApp group to share evacuation information and check on neighbors.*
+- Education & Outreach *Learn and share how to manage our forest and riparian areas to promote a healthy and resilient ecosystem. Learn about and share county resources and information on home hardening and defensible space.*
+
+### Step 5: Document community's annual efforts
+
+Let our steering committee know how much time and/or money you have spent on home hardening, defensible space, wildfire preparedness, and/or education activities. Our steering committee will reach out annually via your preferred contact method. We will need to show at least one hour or $30 spent per household per year to remain in good standing.
+
+### Step 6: Create an online account
+
+Once we complete steps 1-5, our steering committee will apply and share any feedback from the National Fire Protection Agency (NFPA) on our application to be a recognized Firewise Community.
+
+### Step 7: Reap the benefits!
+
+Enjoy of a greater sense of community and resilience to whatever challenges come our way! Ask your insurance provider about discounts for being part of a NFPA-recognized Firewise Community.  
