@@ -19,14 +19,14 @@ As we all know, living in the Santa Cruz Mountains is a beautiful experience but
 
 ### Step 1: Form a steering committee and determine a community boundary
 
-So far, we have two people willing to participate in our steering committee, which is the minimum required. We would like three more people to help speak for various subgroups in our neighborhood, help us determine where to draw our continuous community boundary, and set goals for the next three years.
+We are lucky to have five people willing to participate in our steering committee! Our next step is to meet with Lynn Sestak to learn the specifics of the next steps, including determining our continuous community boundary, compiling participant responses to our community risk assessment, setting goals for the next three years, and applying for Firewise status online. We can't do it alone! Feedback from all our community participants will be needed to be successful.
 
 Steering Committee
 1. Amy Winkler, Mount Bache
 2. Merry Fay, Rancho Prieta
-3. *? Mar Vista*
-4. *? Loma Prieta Way*
-5. *? Haven Hill*
+3. Marilyn Thelen, Mar Vista
+4. Alyssa Plicka, Mar Vista
+5. Angel Garcia, Mar Vista
 
 <img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800">
 
