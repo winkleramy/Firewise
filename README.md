@@ -40,7 +40,7 @@ The data submitted to Firewise is aggregated - *no individual property is called
 
 ### Step 3: Host or attend an educational event once per year
 
-This year, 2024, our community event is a Zoom call with Lynn Sestak, volunteering as the Firewise Coordinator for Santa Cruz County, to share information and answer questions about Firewise. This event takes place Thursday, August 8, at 6pm. A recording of Lynn's Zoom presentation can be found [here](https://drive.google.com/file/d/18StnswwQRPs-_7-UmDB_mJhIE3Y8-Nci/view?usp=drivesdk). A copy of the slides can be found [here](“Resources/2024 LS SCruz Why go Firewise Community version.pdf“)
+This year, 2024, our community event is a Zoom call with Lynn Sestak, volunteering as the Firewise Coordinator for Santa Cruz County, to share information and answer questions about Firewise. This event takes place Thursday, August 8, at 6pm. A recording of Lynn's Zoom presentation can be found [here](https://drive.google.com/file/d/18StnswwQRPs-_7-UmDB_mJhIE3Y8-Nci/view?usp=drivesdk). A copy of the slides can be found [here](Resources/2024%20LS%20SCruz%20Why%20go%20Firewise%20Community%20version.pdf).
 
 In order to share information about this event and future events, our steering committee needs to know how to best contact you. To stay informed, please share your name, mailing address, email address, and/or phone number with our steering committee by emailing Amy at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20with%20Firewise%20Updates)
 
