@@ -32,11 +32,11 @@ Steering Committee
 
 ### Step 2: Perform community risk assessment with a local fire professional
 
-A community risk assessment needs to be performed initially to apply for Firewise and then once every five years to remain in good standing. The steering committee is responsible for completing the community risk assessment document with input from all participating residents. Every participant can help by answering the community risk assessment questions for their own property and sharing with our steering committee by emailing Amy at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Firewise%20Community%20Risk%20Assessment). 
+A community risk assessment needs to be performed initially to apply for Firewise and then once every five years to remain in good standing. The steering committee is responsible for completing the community risk assessment document with input from all participating residents. Every participant can help by taking the community risk assessment survey for their own property [here](https://forms.gle/Gf8wEL79A22A5UAR8). Please only submit the survey once! If you have any questions, please reach out to any member of our steering committee, including Amy at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Firewise%20Community%20Risk%20Assessment). 
 
 The data submitted to Firewise is aggregated - *no individual property is called out* - effectively anonymizing individual responses.
 
-[Click here to go to Community Risk Assessment](Firewise%20Community%20Assessment%20-%20Mount%20Bache.pdf)
+[Click here to view to Community Risk Assessment](Firewise%20Community%20Assessment%20-%20Mount%20Bache.pdf)
 
 ### Step 3: Host or attend an educational event once per year
 
