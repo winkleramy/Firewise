@@ -19,7 +19,7 @@ As we all know, living in the Santa Cruz Mountains is a beautiful experience but
 
 ### Step 1: Form a steering committee and determine a community boundary
 
-We are lucky to have five people willing to participate in our steering committee! Our next step is to meet with Lynn Sestak to learn the specifics of the next steps, including determining our continuous community boundary, compiling participant responses to our community risk assessment, setting goals for the next three years, and applying for Firewise status online. We can't do it alone! Feedback from all our community participants will be needed to be successful.
+We are lucky to have five people willing to participate in our steering committee! We are working with Lynn Sestak to complete the next steps, including determining our continuous community boundary, compiling participant responses to our community risk assessment, setting goals for the next three years, and applying for Firewise status online. We can't do it alone! Feedback from all our community participants will be needed to be successful.
 
 Steering Committee
 1. Amy Winkler, Mount Bache
@@ -42,11 +42,11 @@ The data submitted to Firewise is aggregated - *no individual property is called
 
 This year, 2024, our community event was a Zoom call with Lynn Sestak, volunteering as the Firewise Coordinator for Santa Cruz County, to share information and answer questions about Firewise. This event took place Thursday, August 8, at 6pm. A recording of Lynn's Zoom presentation can be found [here](https://drive.google.com/file/d/18StnswwQRPs-_7-UmDB_mJhIE3Y8-Nci/view?usp=drivesdk). A copy of the slides can be found [here](Resources/2024%20LS%20SCruz%20Why%20go%20Firewise%20Community%20version.pdf).
 
-In order to share information about this event and future events, our steering committee needs to know how to best contact you. To stay informed, please share your name, mailing address, email address, and/or phone number with our steering committee by emailing Amy at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20with%20Firewise%20Updates)
+In order to share information about this event and future events, our steering committee needs to know how to best contact you. To stay informed, please share your name, mailing address, email address, and/or phone number with our steering committee by emailing Amy at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20with%20Firewise%20Updates) or simply complete the community risk assessment survey from Step 2.
 
 ### Step 4: Develop a three-year plan
 
-This plan is informed by the community risk assessment and by the shared concerns of our residents. Please let our steering committee know what issues you would like our Firewise community to focus on, such as:
+This plan is informed by the community risk assessment and by the shared concerns of our residents. In the community risk assessment survey, participants can share the issues most important to them and how they are willing to contribute. Some issues to keep in mind include:
 
 - **Home Hardening:** Embers are the #1 cause of home ignition during wildfire! Hardening the home and Zone 0 yard against embers is the most cost effective
 - **Fuel Reduction & Defensible Space:** Direct flames and radiant heat are the two additional paths to home ignition. Keep fire as far away and as low intensity as possible. Defensible Space is required by law and increases the odds that firefighters will be willing to “make a stand” for our homes
