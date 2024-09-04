@@ -1,4 +1,4 @@
-# Mount Bache Neighborhood Firewise Community
+# Mount Bache Mar Vista Firewise Community
 
 Hello, Neighbors! We are working to form a Firewise community and need your help.
 
@@ -64,3 +64,10 @@ Once we complete steps 1-5, our steering committee will apply and share any feed
 ### Step 7: Reap the benefits!
 
 Enjoy of a greater sense of community and resilience to whatever challenges come our way! Living in an NFPA-Firewise community also comes with state and local benefits, such as early access to the Free Chipping Program, provided by the Resource Conservation District of Santa Cruz County, and an insurance discount with the California Fair Plan.
+
+## Resources for Property Owners
+
+For property-specific, one-on-one guidance on home hardening and defensible space, we recommend the following resources:
+
+- Request a free home ignition zone assessments from the Fire Safe Council, [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ)
+- Request a free on-site survey from the Resource Conservation District, for expert guidance on land management for both defensible space and maintaining a healthy ecosystem, [https://www.rcdsantacruz.org/request-services](https://www.rcdsantacruz.org/request-services)
