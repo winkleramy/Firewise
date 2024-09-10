@@ -29,7 +29,10 @@ Steering Committee
 5. Angel Garcia, serving Mar Vista and Highland
 
 <!-- <img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800"> -->
+<figure>
+  <figcaption>Proposed community boundary encompasses 63x properties, with survey results received from properties highlighted in green:<!figcaption>
 <img src="Resources/Mount Bache Community Boundary.png" alt="Proposed Community Boundary" width="800">
+</figure>
 
 ### Step 2: Perform community risk assessment with a local fire professional
 
