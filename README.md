@@ -28,7 +28,7 @@ Steering Committee
 4. Alyssa Plicka, serving Mar Vista and Highland
 5. Angel Garcia, serving Mar Vista and Highland
 
-/*<img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800">*/
+<!-- <img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800"> -->
 <img src="Resources/Mount Bache Community Boundary.png" alt="Proposed Community Boundary" width="800">
 
 ### Step 2: Perform community risk assessment with a local fire professional
