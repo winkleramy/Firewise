@@ -22,13 +22,14 @@ As we all know, living in the Santa Cruz Mountains is a beautiful experience but
 We are lucky to have five people willing to participate in our steering committee! We are working with Lynn Sestak to complete the next steps, including determining our continuous community boundary, compiling participant responses to our community risk assessment, setting goals for the next three years, and applying for Firewise status online. We can't do it alone! Feedback from all our community participants will be needed to be successful.
 
 Steering Committee
-1. Amy Winkler, Mount Bache
-2. Merry Fay, Rancho Prieta
-3. Marilyn Thelen, Mar Vista
-4. Alyssa Plicka, Mar Vista
-5. Angel Garcia, Mar Vista
+1. Amy Winkler, serving Lower Mount Bache and Haven Hill
+2. Merry Fay, serving Rancho Prieta
+3. Marilyn Thelen, serving Upper Mount Bache and Loma Prieta
+4. Alyssa Plicka, serving Mar Vista and Highland
+5. Angel Garcia, serving Mar Vista and Highland
 
-<img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800">
+/*<img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800">*/
+<img src="Resources/Mount Bache Community Boundary.png" alt="Proposed Community Boundary" width="800">
 
 ### Step 2: Perform community risk assessment with a local fire professional
 
