@@ -36,7 +36,7 @@ A community risk assessment needs to be performed initially to apply for Firewis
 
 The data submitted to Firewise is aggregated - *no individual property is called out* - effectively anonymizing individual responses.
 
-[Click here to view to Community Risk Assessment](Firewise%20Community%20Assessment%20-%20Mount%20Bache.pdf)
+[Click here to complete the Community Risk Assessment Survey for your property](https://forms.gle/Gf8wEL79A22A5UAR8)
 
 ### Step 3: Host or attend an educational event once per year
 
