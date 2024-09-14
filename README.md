@@ -2,7 +2,7 @@
 
 Hello, Neighbors! We are working to form a Firewise community and need your help.
 
-_To skip directly to complete community risk assessment survey for your property, click [here](https://forms.gle/Gf8wEL79A22A5UAR8)_
+_To skip directly to complete community risk assessment survey for your property before September 30, click [here](https://forms.gle/Gf8wEL79A22A5UAR8)_
 
 ## Why Join Firewise
 
@@ -17,24 +17,22 @@ As we all know, living in the Santa Cruz Mountains is a beautiful experience but
 5. Document community's annual efforts, e.g. cleaning gutters, yard work, any home hardening improvements. Show at least one hour or $30 spent per year per household for these activities.
 6. Create an online account. Submit documentation from previous steps. Renew every three years.
 
-**So what progress have we made so far and what do we have left to do?**
+_**So what progress have we made so far and what do we have left to do?**_
 
 ### Step 1: Form a steering committee and determine a community boundary
 
-We are lucky to have five people willing to participate in our steering committee! We are working with Lynn Sestak to complete the next steps, including determining our continuous community boundary, compiling participant responses to our community risk assessment, setting goals for the next three years, and applying for Firewise status online. We can't do it alone! Feedback from all our community participants will be needed to be successful.
+We are lucky to have five people willing to participate in our steering committee! We are working with Lynn Sestak to complete the next steps, including determining our continuous community boundary, compiling participant responses to our community risk assessment, setting goals for the next three years, and applying for Firewise status online. We can't do it alone! Feedback from our community participants will be needed to be successful.
 
 Steering Committee
-1. Amy Winkler, serving Lower Mount Bache and Haven Hill
-2. Merry Fay, serving Rancho Prieta
-3. Marilyn Thelen, serving Upper Mount Bache and Loma Prieta
-4. Alyssa Plicka, serving Mar Vista and Highland
-5. Angel Garcia, serving Mar Vista and Highland
+1. Amy Winkler, serving Lower Mount Bache and Haven Hill, [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Mount%20Bache%20Firewise)
+2. Merry Fay, serving Rancho Prieta, [100wishes@comcast.net](mailto:100wishes@comcast.net?subject=Mount%20Bache%20Firewise)
+3. Marilyn Thelen, serving Upper Mount Bache and Loma Prieta, [marilynthe@aol.com](mailto:marilynthe@aol.com?subject=Mount%20Bache%20Firewise)
+4. Alyssa Plicka, serving Mar Vista and Highland, [aplicka001@gmail.com](mailto:aplicka001@gmail.com?subject=Mount%20Bache%20Firewise)
+5. Angel Garcia, serving Mar Vista and Highland, [angel.mzo.garcia@gmail.com](mailto:angel.mzo.garcia@gmail.com?subject=Mount%20Bache%20Firewise)
 
+The [GISWeb Assessors Map](https://gis.santacruzcountyca.gov/gisweb/) of our proposed Firewise community is shown below. The proposed boundary is drawn in green and encompasses 63 properties, shaded in either gray or green depending on survey response. So far, we have received survey responses from 19 properties highlighted in green. The community boundary is informed by a few factors, including survey response, shared road access / evacuation route, the county line to our north, and the Spanish Ranch Firewise community boundary to our south. We are hoping to receive more survey responses soon! These responses will inform our three-year plan and ensure we can include and contact residents interested in participating.
 <!-- <img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800"> -->
-<figure>
-  <figcaption>Proposed community boundary encompasses 63x properties, with survey results received from properties highlighted in green:<!figcaption>
 <img src="Resources/Mount Bache Community Boundary.png" alt="Proposed Community Boundary" width="800">
-</figure>
 
 ### Step 2: Perform community risk assessment with a local fire professional
 
@@ -42,7 +40,7 @@ A community risk assessment needs to be performed initially to apply for Firewis
 
 The data submitted to Firewise is aggregated - *no individual property is called out* - effectively anonymizing individual responses.
 
-[Click here to complete the Community Risk Assessment Survey for your property](https://forms.gle/Gf8wEL79A22A5UAR8)
+[Click here to complete the Community Risk Assessment Survey for your property before September 30!](https://forms.gle/Gf8wEL79A22A5UAR8)
 
 ### Step 3: Host or attend an educational event once per year
 
@@ -77,4 +75,4 @@ For property-specific, one-on-one guidance on home hardening and defensible spac
 
 - Request a free home ignition zone assessments from the Fire Safe Council, [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ)
 - Request a free on-site survey from the Resource Conservation District, for expert guidance on land management for both defensible space and maintaining a healthy ecosystem, [https://www.rcdsantacruz.org/request-services](https://www.rcdsantacruz.org/request-services)
-- Learn more about the why and how to harden your home and maintain defensible space, including where to buy noncombustible or Class A fire rated materials for roofing, siding, fences, decks, etc., [https://firesafemarin.org/harden-your-home/](https://firesafemarin.org/harden-your-home/)
+- Learn more about the why and how to harden your home and maintain defensible space, including where to buy noncombustible or Class A fire-rated materials for roofing, siding, fences, decks, etc., [https://firesafemarin.org/harden-your-home/](https://firesafemarin.org/harden-your-home/)
