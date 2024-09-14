@@ -77,3 +77,4 @@ For property-specific, one-on-one guidance on home hardening and defensible spac
 
 - Request a free home ignition zone assessments from the Fire Safe Council, [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ)
 - Request a free on-site survey from the Resource Conservation District, for expert guidance on land management for both defensible space and maintaining a healthy ecosystem, [https://www.rcdsantacruz.org/request-services](https://www.rcdsantacruz.org/request-services)
+- Learn more about the why and how to harden your home and maintain defensible space, including where to buy noncombustible or Class A fire rated materials for roofing, siding, fences, decks, etc., [https://firesafemarin.org/harden-your-home/](https://firesafemarin.org/harden-your-home/)
