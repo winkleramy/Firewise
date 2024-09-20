@@ -1,4 +1,4 @@
-# Mount Bache Mar Vista Firewise Community
+# Mount Bache+ Firewise Community
 
 Hello, Neighbors! We are working to form a Firewise community and need your help.
 
