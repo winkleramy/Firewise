@@ -1,8 +1,6 @@
 # Mount Bache+ Firewise Community
 
-Hello, Neighbors! We are working to form a Firewise community and need your help.
-
-_To skip directly to complete community risk assessment survey for your property before September 30, click [here](https://forms.gle/Gf8wEL79A22A5UAR8)_
+Hello, Neighbors! We are close to submitting our application to be an NFPA-recognized Firewise community. We will periodically update this document to reflect our current status. Thank you for your interest in Firewise!
 
 ## Why Join Firewise
 
@@ -30,7 +28,7 @@ Steering Committee
 4. Alyssa Plicka, serving Mar Vista and Highland, [aplicka001@gmail.com](mailto:aplicka001@gmail.com?subject=Mount%20Bache%20Firewise)
 5. Angel Garcia, serving Mar Vista and Highland, [angel.mzo.garcia@gmail.com](mailto:angel.mzo.garcia@gmail.com?subject=Mount%20Bache%20Firewise)
 
-Our steering committee circulated a google form survey to gauge interest in Firewise participation and the level of wildfire readiness of individual properties within our neighborhoods. An anonymized summary of the survey results can be viewed [here]("Resources/Community Risk Assessment - Survey Results Summary.pdf"). This survey opened in late August and closed on September 30. A big thank you to all our participants!! We heard from 27 residents, representing 29 properties. We even heard from residents outside our original outreach area and ultimately widened our community boundary to accommodate everyone. We tried to draw a reasonable boundary to include all survey participants, as well as considering shared risks like road access and adjacency to open spaces, without overextending ourselves. 
+Our steering committee circulated a google form survey to gauge interest in Firewise participation and the level of wildfire readiness of individual properties within our neighborhoods. An anonymized summary of the survey results can be viewed [here](Resources/Community%20Risk%20Assessment%20-%20Survey%20Results%20Summary.pdf). This survey opened in late August and closed on September 30. A big thank you to all our participants!! We heard from 27 residents, representing 29 properties. We even heard from residents outside our original outreach area and ultimately widened our community boundary to accommodate everyone. We tried to draw a reasonable boundary to include all survey participants, as well as considering shared risks like road access and adjacency to open spaces, without overextending ourselves. 
 
 The [GISWeb Assessors Map](https://gis.santacruzcountyca.gov/gisweb/) of our proposed Firewise community is shown below. The proposed boundary is drawn in blue and encompasses 67 properties. The properties of survey participants are highlighted in blue. The community boundary is informed by a multiple factors, including survey response, shared road access / evacuation route, the county line to our north, and the Spanish Ranch Firewise community boundary to our south. These responses will inform our three-year plan and ensure we can include and contact those interested in participating.
 <!-- <img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800"> -->
@@ -38,7 +36,7 @@ The [GISWeb Assessors Map](https://gis.santacruzcountyca.gov/gisweb/) of our pro
 
 ### Step 2: Perform community risk assessment with a local fire professional
 
-A community risk assessment needs to be performed initially to apply for Firewise and then once every five years to remain in good standing. The steering committee is responsible for completing the community risk assessment document with input from all participating residents via the community risk assessment survey and a community drive-through with local fire professional. Our community drive-through took place with Lynn Sestak on September 24, 2024, who put together a report for our application. The report can be viewed [here]("Resources/Community Risk Assessment - Drive-through Report.pdf"). 
+A community risk assessment needs to be performed initially to apply for Firewise and then once every five years to remain in good standing. The steering committee is responsible for completing the community risk assessment document with input from all participating residents via the community risk assessment survey and a community drive-through with local fire professional. Our community drive-through took place with Lynn Sestak on September 24, 2024, who put together a report for our application. The report can be viewed [here](Resources/Community%20Risk%20Assessment%20-%20Drive-through%20Report.pdf). 
 
 The community drive-through does not include any individual property assessments, only the general conditions of the community, such as roadside vegetation. Individual property assessments are completely voluntary and can be requested from the Fire Safe Council by filling out the request form at this website: [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ). 
 
