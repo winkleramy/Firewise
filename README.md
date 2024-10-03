@@ -21,7 +21,7 @@ _**So what progress have we made so far and what do we have left to do?**_
 
 ### Step 1: Form a steering committee and determine a community boundary
 
-We are lucky to have five people willing to participate in our steering committee! We are working with Lynn Sestak to complete the next steps, including determining our continuous community boundary, compiling participant responses to our community risk assessment, setting goals for the next three years, and applying for Firewise status online. We can't do it alone! Feedback from our community participants will be needed to be successful.
+We are lucky to have five people willing to participate in our steering committee! We are working with Lynn Sestak to complete the next steps, including determining our continuous community boundary, compiling participant responses to our community risk assessment, setting goals for the next three years, and applying for Firewise status online. We can't do it alone! Feedback from our community participants is needed to be successful.
 
 Steering Committee
 1. Amy Winkler, serving Lower Mount Bache and Haven Hill, [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Mount%20Bache%20Firewise)
@@ -30,27 +30,29 @@ Steering Committee
 4. Alyssa Plicka, serving Mar Vista and Highland, [aplicka001@gmail.com](mailto:aplicka001@gmail.com?subject=Mount%20Bache%20Firewise)
 5. Angel Garcia, serving Mar Vista and Highland, [angel.mzo.garcia@gmail.com](mailto:angel.mzo.garcia@gmail.com?subject=Mount%20Bache%20Firewise)
 
-The [GISWeb Assessors Map](https://gis.santacruzcountyca.gov/gisweb/) of our proposed Firewise community is shown below. The proposed boundary is drawn in blue and encompasses 67 properties. So far, we have received survey responses from 23 residents, representing 25 properties highlighted in blue. The community boundary is informed by a multiple factors, including survey response, shared road access / evacuation route, the county line to our north, and the Spanish Ranch Firewise community boundary to our south. We are hoping to receive more survey responses soon! These responses will inform our three-year plan and ensure we can include and contact those interested in participating.
+Our steering committee circulated a google form survey to gauge interest in Firewise participation and the level of wildfire readiness of individual properties within our neighborhoods. An anonymized summary of the survey results can be viewed [here]("Resources/Community Risk Assessment - Survey Results Summary.pdf"). This survey opened in late August and closed on September 30. A big thank you to all our participants!! We heard from 27 residents, representing 29 properties. We even heard from residents outside our original outreach area and ultimately widened our community boundary to accommodate everyone. We tried to draw a reasonable boundary to include all survey participants, as well as considering shared risks like road access and adjacency to open spaces, without overextending ourselves. 
+
+The [GISWeb Assessors Map](https://gis.santacruzcountyca.gov/gisweb/) of our proposed Firewise community is shown below. The proposed boundary is drawn in blue and encompasses 67 properties. The properties of survey participants are highlighted in blue. The community boundary is informed by a multiple factors, including survey response, shared road access / evacuation route, the county line to our north, and the Spanish Ranch Firewise community boundary to our south. These responses will inform our three-year plan and ensure we can include and contact those interested in participating.
 <!-- <img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800"> -->
-<img src="Resources/Mount Bache Community Boundary.png" alt="Proposed Community Boundary" width="800">
+<img src="Resources/Mount Bache Community Participation.png" alt="Proposed Community Boundary" width="800">
 
 ### Step 2: Perform community risk assessment with a local fire professional
 
-A community risk assessment needs to be performed initially to apply for Firewise and then once every five years to remain in good standing. The steering committee is responsible for completing the community risk assessment document with input from all participating residents via the community risk assessment survey and a community drive-through with local fire professional. Our community drive-through is scheduled to take place with Lynn Sestak on September 24. The community drive-through does not include any individual property assessments, only the general conditions of the community, such as roadside vegetation. Individual property assessments are completely voluntary, and every participant can help by taking the community risk assessment survey for their own property [here](https://forms.gle/Gf8wEL79A22A5UAR8). Please only submit the survey once! If you have any questions, please reach out to any member of our steering committee, including Amy at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Firewise%20Community%20Risk%20Assessment). 
+A community risk assessment needs to be performed initially to apply for Firewise and then once every five years to remain in good standing. The steering committee is responsible for completing the community risk assessment document with input from all participating residents via the community risk assessment survey and a community drive-through with local fire professional. Our community drive-through took place with Lynn Sestak on September 24, 2024, who put together a report for our application. The report can be viewed [here]("Resources/Community Risk Assessment - Drive-through Report.pdf"). 
 
-The data submitted to Firewise is aggregated - *no individual property is called out* - effectively anonymizing individual responses.
-
-[Click here to complete the Community Risk Assessment Survey for your property before September 30!](https://forms.gle/Gf8wEL79A22A5UAR8)
+The community drive-through does not include any individual property assessments, only the general conditions of the community, such as roadside vegetation. Individual property assessments are completely voluntary and can be requested from the Fire Safe Council by filling out the request form at this website: [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ). 
 
 ### Step 3: Host or attend an educational event once per year
 
 This year, 2024, our community event was a Zoom call with Lynn Sestak, volunteering as the Firewise Coordinator for Santa Cruz County, to share information and answer questions about Firewise. This event took place Thursday, August 8, at 6pm. A recording of Lynn's Zoom presentation can be found [here](https://drive.google.com/file/d/18StnswwQRPs-_7-UmDB_mJhIE3Y8-Nci/view?usp=drivesdk). A copy of the slides can be found [here](Resources/2024%20LS%20SCruz%20Why%20go%20Firewise%20Community%20version.pdf).
 
-In order to share information about this event and future events, our steering committee needs to know how to best contact you. To stay informed, please share your name, mailing address, email address, and/or phone number with our steering committee by emailing Amy at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20with%20Firewise%20Updates) or simply complete the community risk assessment survey from Step 2.
+In order to share information about this event and future events, our steering committee needs to know how to best contact you. We have contact details for all our survey responders. If you have not completed the survey but want to stay informed of future Firewise updates and events, please share your name, email address, and/or phone number with our steering committee by emailing Amy at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20with%20Firewise%20Updates).
 
 ### Step 4: Develop a three-year plan
 
-This plan is informed by the community risk assessment and by the shared concerns of our residents. In the community risk assessment survey, participants can share the issues most important to them and how they are willing to contribute. Some issues to keep in mind include:
+The steering committee will be drafting and circulating a proposed three-year plan in mid-October.
+
+This plan is informed by the community risk assessment and by the shared concerns of our residents. In the community risk assessment survey, participants could share the issues most important to them and how they are willing to contribute. Some issues to keep in mind include:
 
 - **Home Hardening:** Embers are the #1 cause of home ignition during wildfire! Hardening the home and Zone 0 yard against embers is the most cost effective
 - **Fuel Reduction & Defensible Space:** Direct flames and radiant heat are the two additional paths to home ignition. Keep fire as far away and as low intensity as possible. Defensible Space is required by law and increases the odds that firefighters will be willing to “make a stand” for our homes
