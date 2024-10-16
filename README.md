@@ -39,6 +39,8 @@ A community risk assessment needs to be performed initially to apply for Firewis
 
 The community drive-through does not include any individual property assessments, only the general conditions of the community, such as roadside vegetation. Individual property assessments are completely voluntary and can be requested from the Fire Safe Council by filling out the request form at this website: [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ). 
 
+The results of the community risk assessment survey and drive-through are used to fill out the Firewise Community Assessment template, required for our application. The first draft of this completed form can be found [here](Firewise%20Community%20Assessment%20-%20Mt%20Bache%20Loma%20Prieta%20Plus.pdf).
+
 ### Step 3: Host or attend an educational event once per year
 
 This year, 2024, our community event was a Zoom call with Lynn Sestak, volunteering as the Firewise Coordinator for Santa Cruz County, to share information and answer questions about Firewise. This event took place Thursday, August 8, at 6pm. A recording of Lynn's Zoom presentation can be found [here](https://drive.google.com/file/d/18StnswwQRPs-_7-UmDB_mJhIE3Y8-Nci/view?usp=drivesdk). A copy of the slides can be found [here](Resources/2024%20LS%20SCruz%20Why%20go%20Firewise%20Community%20version.pdf).
@@ -47,7 +49,7 @@ In order to share information about this event and future events, our steering c
 
 ### Step 4: Develop a three-year plan
 
-The steering committee will be drafting and circulating a proposed three-year plan in mid-October.
+The steering committee has released a first draft for review, which can be found [here](Firewise%203Year%20Action%20Plan%20-%20Mt%20Bache%20Loma%20Prieta%20Plus.pdf).
 
 This plan is informed by the community risk assessment and by the shared concerns of our residents. In the community risk assessment survey, participants could share the issues most important to them and how they are willing to contribute. Some issues to keep in mind include:
 
