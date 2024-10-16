@@ -1,4 +1,4 @@
-# Mount Bache+ Firewise Community
+# Mt Bache - Loma Prieta Plus Firewise Community
 
 Hello, Neighbors! We are close to submitting our application to be an NFPA-recognized Firewise community. We will periodically update this document to reflect our current status. Thank you for your interest in Firewise!
 
@@ -19,14 +19,13 @@ _**So what progress have we made so far and what do we have left to do?**_
 
 ### Step 1: Form a steering committee and determine a community boundary
 
-We are lucky to have five people willing to participate in our steering committee! We are working with Lynn Sestak to complete the next steps, including determining our continuous community boundary, compiling participant responses to our community risk assessment, setting goals for the next three years, and applying for Firewise status online. We can't do it alone! Feedback from our community participants is needed to be successful.
+We are lucky to have many people willing to participate in our steering committee! We are working with Lynn Sestak to complete the next steps, including determining our continuous community boundary, compiling participant responses to our community risk assessment, setting goals for the next three years, and applying for Firewise status online. We can't do it alone! Feedback from our community participants is needed to be successful.
 
 Steering Committee
 1. Amy Winkler, serving Lower Mount Bache and Haven Hill, [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Mount%20Bache%20Firewise)
 2. Merry Fay, serving Rancho Prieta, [100wishes@comcast.net](mailto:100wishes@comcast.net?subject=Mount%20Bache%20Firewise)
 3. Marilyn Thelen, serving Upper Mount Bache and Loma Prieta, [marilynthe@aol.com](mailto:marilynthe@aol.com?subject=Mount%20Bache%20Firewise)
 4. Alyssa Plicka, serving Mar Vista and Highland, [aplicka001@gmail.com](mailto:aplicka001@gmail.com?subject=Mount%20Bache%20Firewise)
-5. Angel Garcia, serving Mar Vista and Highland, [angel.mzo.garcia@gmail.com](mailto:angel.mzo.garcia@gmail.com?subject=Mount%20Bache%20Firewise)
 
 Our steering committee circulated a google form survey to gauge interest in Firewise participation and the level of wildfire readiness of individual properties within our neighborhoods. An anonymized summary of the survey results can be viewed [here](Resources/Community%20Risk%20Assessment%20-%20Survey%20Results%20Summary.pdf). This survey opened in late August and closed on September 30. A big thank you to all our participants!! We heard from 27 residents, representing 29 properties. We even heard from residents outside our original outreach area and ultimately widened our community boundary to accommodate everyone. We tried to draw a reasonable boundary to include all survey participants, as well as considering shared risks like road access and adjacency to open spaces, without overextending ourselves. 
 
