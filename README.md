@@ -4,7 +4,7 @@ Hello, Neighbors, and thank you for your interest in Firewise!
 
 We submitted our [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf) to be an NFPA-recognized Firewise community on October 31, 2024. A big thank you to our steering committee and community participants for sharing their time, expertise, and feedback, empowering us to reach this stage!! 
 
-The application status is currently *pending* while under review by Firewise USA<sup>TM</sup>. The review stage typically takes about four weeks. We will update this document when we hear back.
+The application status is currently *pending* while under review by [Firewise USA<sup>TM</sup>](https://www.nfpa.org/education-and-research/wildfire/firewise-usa). The review stage typically takes about four weeks. We will update this document when we hear back.
 
 Quick links:
 - [Fire Safe Council of Santa Cruz County Website](https://www.firesafesantacruz.org/firewise-usa-recognition-program)
