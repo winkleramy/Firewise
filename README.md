@@ -76,7 +76,7 @@ Our steering committee created an online account and submitted our [Firewise USA
 
 ### :white_check_mark: *Step 7: Reap the benefits!*
 
-Enjoy of a greater sense of community and resilience to whatever challenges come our way! Living in an NFPA-Firewise community also comes with state and local benefits, such as early access to the Free Chipping Program, provided by the Resource Conservation District of Santa Cruz County, and an insurance discount with the California Fair Plan. Remember to log your efforts for our future renewal application and look out for emails and WhatsApp messages regarding social and educational events for our community!
+Enjoy of a greater sense of community and resilience to whatever challenges come our way! Living in an NFPA-Firewise community also comes with state and local benefits, such as early access to the Free Chipping Program, provided by the Resource Conservation District of Santa Cruz County, and an insurance discount with the California Fair Plan. Remember to log your home hardening and defensible space efforts for our future renewal application and look out for emails and WhatsApp messages regarding social and educational events for our community!
 
 ## Resources for Property Owners
 
