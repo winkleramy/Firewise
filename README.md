@@ -1,6 +1,12 @@
-# Mt Bache - Loma Prieta Plus Firewise Community
+# Mt Bache Loma Prieta Plus Firewise Community
 
-Hello, Neighbors! We are close to submitting our application to be an NFPA-recognized Firewise community. We will periodically update this document to reflect our current status. Thank you for your interest in Firewise!
+Hello, Neighbors, and thank you for your interest in Firewise! We submitted our [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf) to be an NFPA-recognized Firewise community on Oct. 31, 2024. A big thank you to our steering committee and community participants for sharing your time, expertise, and feedback, empowering us to reach this stage!! The application status is currently *pending* while under review by Firewise USA<sup>TM</sup>. The review stage typically takes about four weeks. We will update this document when we hear back.
+
+Quick links:
+- [Fire Safe Council of Santa Cruz County Website](https://www.firesafesantacruz.org/firewise-usa-recognition-program)
+- [Mt Bache Loma Prieta Plus 2024 New Application PDF](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf)
+- [Risk Assessment PDF](Firewise%20Community%20Assessment%20-%20Mt%20Bache%20Loma%20Prieta%20Plus.pdf)
+- [Action Plan PDF](Firewise%203Year%20Action%20Plan%20-%20Mt%20Bache%20Loma%20Prieta%20Plus.pdf)
 
 ## Why Join Firewise
 
@@ -17,7 +23,7 @@ As we all know, living in the Santa Cruz Mountains is a beautiful experience but
 
 _**So what progress have we made so far and what do we have left to do?**_
 
-### Step 1: Form a steering committee and determine a community boundary
+### :white_check_mark: Step 1: Form a steering committee and determine a community boundary
 
 We are lucky to have many people willing to participate in our steering committee! We are working with Lynn Sestak to complete the next steps, including determining our continuous community boundary, compiling participant responses to our community risk assessment, setting goals for the next three years, and applying for Firewise status online. We can't do it alone! Feedback from our community participants is needed to be successful.
 
@@ -29,27 +35,27 @@ Steering Committee
 
 Our steering committee circulated a google form survey to gauge interest in Firewise participation and the level of wildfire readiness of individual properties within our neighborhoods. An anonymized summary of the survey results can be viewed [here](Resources/Community%20Risk%20Assessment%20-%20Survey%20Results%20Summary.pdf). This survey opened in late August and closed on September 30. A big thank you to all our participants!! In our initial outreach, we heard from more than 40% of contacted property owners. We even heard from residents outside our original outreach area and ultimately widened our community boundary to accommodate everyone. We tried to draw a reasonable boundary to include all survey participants, as well as considering shared risks like road access, evacuation routes, and adjacency to open spaces, without overextending ourselves. 
 
-The [GISWeb Assessors Map](https://gis.santacruzcountyca.gov/gisweb/) of our proposed Firewise community is shown below. The proposed boundary is drawn in blue and encompasses 79 properties. The community boundary is informed by a multiple factors, including survey response, shared road access / evacuation route, the county line to our north, and the Spanish Ranch Firewise community boundary to our south. These responses will inform our three-year plan and ensure we can include and contact those interested in participating.
+The [GISWeb Assessors Map](https://gis.santacruzcountyca.gov/gisweb/) of our proposed Firewise community is shown below. The boundary is drawn in blue and encompasses 79 properties. The community boundary is informed by a multiple factors, including survey response, shared road access / evacuation route, the county line to our north, and the Spanish Ranch Firewise community boundary and Highland Rd to our south. These responses will inform our three-year plan and ensure we can include and contact those interested in participating.
 <!-- <img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800"> -->
 <img src="Resources/Community Boundary.png" alt="Proposed Community Boundary" width="800">
 
-### Step 2: Perform community risk assessment with a local fire professional
+### :white_check_mark: Step 2: Perform community risk assessment with a local fire professional
 
 A community risk assessment needs to be performed initially to apply for Firewise and then once every five years to remain in good standing. The steering committee is responsible for completing the community risk assessment document with input from all participating residents via the community risk assessment survey and a community drive-through with local fire professional. Our community drive-through took place with Lynn Sestak on September 24, 2024, who put together a report for our application. The report can be viewed [here](Community%20Risk%20Assessment%20-%20Drive-through%20Report.pdf). 
 
 The community drive-through does not include any individual property assessments, only the general conditions of the community, such as roadside vegetation. Individual property assessments are completely voluntary and can be requested from the Fire Safe Council by filling out the request form at this website: [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ). 
 
-The results of the community risk assessment survey and drive-through are used to fill out the Firewise Community Assessment template, required for our application. The first draft of this completed form can be found [here](Firewise%20Community%20Assessment%20-%20Mt%20Bache%20Loma%20Prieta%20Plus.pdf).
+The results of the community risk assessment survey and drive-through are used to fill out the Firewise Community Assessment template, required for our application. The completed form can be found [here](Firewise%20Community%20Assessment%20-%20Mt%20Bache%20Loma%20Prieta%20Plus.pdf).
 
-### Step 3: Host or attend an educational event once per year
+### :white_check_mark: Step 3: Host or attend an educational event once per year
 
 This year, 2024, our community event was a Zoom call with Lynn Sestak, volunteering as the Firewise Coordinator for Santa Cruz County, to share information and answer questions about Firewise. This event took place Thursday, August 8, at 6pm. A recording of Lynn's Zoom presentation can be found [here](https://drive.google.com/file/d/18StnswwQRPs-_7-UmDB_mJhIE3Y8-Nci/view?usp=drivesdk). A copy of the slides can be found [here](Resources/2024%20LS%20SCruz%20Why%20go%20Firewise%20Community%20version.pdf).
 
 In order to share information about this event and future events, our steering committee needs to know how to best contact you. We have contact details for all our survey responders. If you have not completed the survey but want to stay informed of future Firewise updates and events, please share your name, email address, and/or phone number with our steering committee by emailing Amy at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20with%20Firewise%20Updates).
 
-### Step 4: Develop a three-year plan
+### :white_check_mark: Step 4: Develop a three-year plan
 
-The steering committee has released a first draft for review, which can be found [here](Firewise%203Year%20Action%20Plan%20-%20Mt%20Bache%20Loma%20Prieta%20Plus.pdf).
+The steering committee shared a first draft with our survey responders via email and WhatsApp on October 15 for review and finalized the document for our application on October 31. The submitted document can be found [here](Firewise%203Year%20Action%20Plan%20-%20Mt%20Bache%20Loma%20Prieta%20Plus.pdf).
 
 This plan is informed by the community risk assessment and by the shared concerns of our residents. In the community risk assessment survey, participants could share the issues most important to them and how they are willing to contribute. Some issues to keep in mind include:
 
@@ -58,17 +64,19 @@ This plan is informed by the community risk assessment and by the shared concern
 - **Wildfire Preparedness & Evacuation Planning:** Prepare our neighborhood to quickly and safely evacuate if need be. Make it easy for first responder vehicles to drive in. Some communities have phone chains or a WhatsApp group to share evacuation information and check on neighbors.
 - **Education & Outreach:** Learn and share how to manage our forest and riparian areas to promote a healthy and resilient ecosystem. Learn about and share county resources and information on home hardening and defensible space.
 
-### Step 5: Document community's annual efforts
+### :white_check_mark: Step 5: Document community's annual efforts
 
 Keep track of how much time and/or money you spend on home hardening, defensible space, wildfire preparedness, and/or education activities. Our steering committee will reach out annually to request this information via your preferred contact method. A Firewise community in good standing must show a combined effort equivalent to at least one hour or $30 spent per household per year.
 
-### Step 6: Create an online account
+This year, our survey responders logged the equivalent investment of $202,279 on home hardening and defensible space, far exceeding the required $2,416.80, or $31.80/year x 76 dwellings. This investment was in the form of both time and dollars spent, specifically 2,105 hours, considered an investment of $66,939 by Firewise USA<sup>TM</sup>, and $135,340 direct monetary investment on contractors, equipment, home improvement costs, vehicle mileage, and landscaping. We estimate the vegetation removal within our community, through chipping, burning, and hauling, to be around 1,465.60 Cubic Yards this year. We are proud to live in such an industrious and conscientious community!
 
-Once we complete steps 1-5, our steering committee will apply and share any feedback from the National Fire Protection Agency (NFPA) on our application to be a recognized Firewise Community.
+### :white_check_mark: Step 6: Create an online account
 
-### Step 7: Reap the benefits!
+Our steering committee created an online account and submitted our [Firewise USA<sup>TM</sup> Application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf) on October 31, 2024. This application includes the [Community Risk Assessment](Firewise%20Community%20Assessment%20-%20Mt%20Bache%20Loma%20Prieta%20Plus.pdf) and [Action Plan](Firewise%203Year%20Action%20Plan%20-%20Mt%20Bache%20Loma%20Prieta%20Plus.pdf) documents described in steps 2 and 4 and includes the steering committee members information, community boundary, and 2024 annual investment information from steps 1 and 5. 
 
-Enjoy of a greater sense of community and resilience to whatever challenges come our way! Living in an NFPA-Firewise community also comes with state and local benefits, such as early access to the Free Chipping Program, provided by the Resource Conservation District of Santa Cruz County, and an insurance discount with the California Fair Plan.
+### :white_check_mark: *Step 7: Reap the benefits!*
+
+Enjoy of a greater sense of community and resilience to whatever challenges come our way! Living in an NFPA-Firewise community also comes with state and local benefits, such as early access to the Free Chipping Program, provided by the Resource Conservation District of Santa Cruz County, and an insurance discount with the California Fair Plan. Remember to log your efforts for our future renewal application and look out for emails and WhatsApp messages regarding social and educational events for our community!
 
 ## Resources for Property Owners
 
