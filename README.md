@@ -1,10 +1,30 @@
 # Mt Bache Loma Prieta Plus Firewise Community
 
-Hello, Neighbors, and thank you for your interest in Firewise! 
+Hello, Neighbors, and thank you for your interest in Firewise! Click on a topic below to get started.
+
+1. [Status](#status)
+2. [Upcoming Events](#upcoming-events)
+3. [Past Events](#past-events)
+4. [Background Information](#why-join-firewise)
+5. [Steering Committee](#steering-committee)
+6. [Community Map](#community-map)
+7. [Resources for Property Owners](#resources-for-property-owners)
+8. Document My Firewise Activities *Coming Soon*
+
+## Status
 
 We submitted our [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf) to be an NFPA-recognized Firewise community on October 31, 2024. A big thank you to our steering committee and community participants for sharing their time, expertise, and feedback, empowering us to reach this stage!! 
 
 The application status is currently *pending* while under review by [Firewise USA<sup>TM</sup>](https://www.nfpa.org/education-and-research/wildfire/firewise-usa). The review stage typically takes about four weeks. We will update this document when we hear back.
+
+## Upcoming Events
+
+- 2024 December 3, Pile Burning Operation by CAL FIRE in Soquel Demonstration Forest: [Notice in English](Updates/SDSF%20To%20Conduct%20Pile%20Burning%20Operation.pdf) or [Español](Updates/Operaciones%20de%20quema%20contralada%20de%20maleza%20programadas%20para%20el%203%20de%20diciembre.pdf)
+
+## Past Events
+
+- 2024 September 24, Community Drive-through with Lynn Sestak: [Report](Community%20Risk%20Assessment%20-%20Drive-through%20Report.pdf) 
+- 2024 August 8, Why Go Firewise Presentation by Lynn Sestak: [Recorded Presentation](https://drive.google.com/file/d/18StnswwQRPs-_7-UmDB_mJhIE3Y8-Nci/view?usp=drivesdk) and [Slides](Resources/2024%20LS%20SCruz%20Why%20go%20Firewise%20Community%20version.pdf)
 
 Quick links:
 - [Fire Safe Council of Santa Cruz County Website](https://www.firesafesantacruz.org/firewise-usa-recognition-program)
@@ -31,7 +51,7 @@ _**So what progress have we made so far and what do we have left to do?**_
 
 We are lucky to have many people willing to participate in our steering committee! We are working with Lynn Sestak to complete the next steps, including determining our continuous community boundary, compiling participant responses to our community risk assessment, setting goals for the next three years, and applying for Firewise status online. We can't do it alone! Feedback from our community participants is needed to be successful.
 
-Steering Committee
+#### Steering Committee
 1. Amy Winkler, serving Lower Mount Bache and Haven Hill, [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Mount%20Bache%20Firewise)
 2. Merry Fay, serving Rancho Prieta, [100wishes@comcast.net](mailto:100wishes@comcast.net?subject=Mount%20Bache%20Firewise)
 3. Marilyn Thelen, serving Upper Mount Bache and Loma Prieta, [marilynthe@aol.com](mailto:marilynthe@aol.com?subject=Mount%20Bache%20Firewise)
@@ -39,6 +59,7 @@ Steering Committee
 
 Our steering committee circulated a google form survey to gauge interest in Firewise participation and the level of wildfire readiness of individual properties within our neighborhoods. An anonymized summary of the survey results can be viewed [here](Resources/Community%20Risk%20Assessment%20-%20Survey%20Results%20Summary.pdf). This survey opened in late August and closed on September 30. A big thank you to all our participants!! We even heard from residents outside our original outreach area and ultimately widened our community boundary to accommodate everyone. We tried to draw a reasonable boundary to include all survey participants, as well as considering shared risks like road access, evacuation routes, and adjacency to open spaces, without overextending ourselves. 
 
+#### Community Map
 The [GISWeb Assessors Map](https://gis.santacruzcountyca.gov/gisweb/) of our proposed Firewise community is shown below. The boundary is drawn in blue and encompasses 76 dwellings across 79 properties. The community boundary is informed by a multiple factors, including survey response, shared road access / evacuation route, the county line to our north, and the Spanish Ranch Firewise community boundary and Highland Rd to our south.
 <!-- <img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800"> -->
 <img src="Resources/Community Boundary.png" alt="Proposed Community Boundary" width="800">
