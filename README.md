@@ -19,7 +19,7 @@ The application status is currently *pending* while under review by [Firewise US
 
 ## Upcoming Events
 
-- 2024 December 3, Pile Burning Operation by CAL FIRE in Soquel Demonstration Forest: [Notice in English](Updates/SDSF%20To%20Conduct%20Pile%20Burning%20Operation.pdf) or [Español](Updates/Operaciones%20de%20quema%20contralada%20de%20maleza%20programadas%20para%20el%203%20de%20diciembre.pdf)
+- POSTPONED to 2025 (originally 2024 December 3), Pile Burning Operation by CAL FIRE in Soquel Demonstration Forest: [Notice in English](Updates/POSTPONED%20%20Soquel%20Demonstration%20State%20Forest%20Pile%20Burning%20Operation%20Postponed) or [Español](Updates/Operacion%20de%20quema%20controlada%20pospuesta%20debido%20a%20condiciones%20climaticas)
 
 ## Past Events
 
