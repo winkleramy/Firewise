@@ -17,6 +17,8 @@ We submitted our [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20
 
 Our application was accepted on December 20, 2024 and our community is currently *in good standing* by [Firewise USA<sup>TM</sup>](https://www.nfpa.org/education-and-research/wildfire/firewise-usa). 
 
+Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certificate.pdf) with your insurance provider for possible discounts for participating in an NFPA-recognized Firewise community.
+
 ## Upcoming Events
 
 - POSTPONED to 2025 (originally 2024 December 3), Pile Burning Operation by CAL FIRE in Soquel Demonstration Forest: [Notice in English](Updates/POSTPONED%20%20Soquel%20Demonstration%20State%20Forest%20Pile%20Burning%20Operation%20Postponed.pdf) or [Español](Updates/Operacion%20de%20quema%20controlada%20pospuesta%20debido%20a%20condiciones%20climaticas.pdf)
