@@ -9,7 +9,7 @@ Hello, Neighbors, and thank you for your interest in Firewise! Click on a topic 
 5. [Steering Committee](#steering-committee)
 6. [Community Map](#community-map)
 7. [Resources for Property Owners](#resources-for-property-owners)
-8. Document My Firewise Activities *Coming Soon*
+8. [Document My Firewise Activities](https://docs.google.com/spreadsheets/d/1HqfeKdMY8orYj6p21nRU8xL4xSn_N-H0nxbRe3LQyBw/edit?usp=share_link)
 
 ## Status
 
