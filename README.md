@@ -15,13 +15,14 @@ Hello, Neighbors, and thank you for your interest in Firewise! Click on a topic 
 
 We submitted our [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf) to be an NFPA-recognized Firewise community on October 31, 2024. A big thank you to our steering committee and community participants for sharing their time, expertise, and feedback, empowering us to reach this stage!! 
 
-Our application was accepted on December 20, 2024 and our community is currently *in good standing* by [Firewise USA<sup>TM</sup>](https://www.nfpa.org/education-and-research/wildfire/firewise-usa). 
+Our application was accepted on December 20, 2024 and our community is currently *in good standing* by [Firewise USA<sup>TM</sup>](https://www.nfpa.org/education-and-research/wildfire/firewise-usa). To remain in good standing, we will need to document our wildfire risk reduction efforts and share with Firewise USA<sup>TM</sup> annually. Click [here](https://docs.google.com/spreadsheets/d/1HqfeKdMY8orYj6p21nRU8xL4xSn_N-H0nxbRe3LQyBw/edit?usp=share_link) to see an example of how to document your activities. Participants are welcome to document activities on this sheet or track privately and share cumulative efforts - time/dollars spent plus estimated amount of brush removed - at the end of the year. Our steering committee will reach out around October to request this information for our annual renewal application.
 
 Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certificate.pdf) with your insurance provider for possible discounts for participating in an NFPA-recognized Firewise community. You can view and download this [map](Resources/Community%20Boundary.png) to confirm your property is within our community boundary. If you need a higher resolution version highlighting a specific property number, please [email](mailto:winkleramy@gmail.com?subject=Mt%20Bache%20Firewise%20Map%20Request) me. To see all the Firewise communities within Santa Cruz County, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
 
 ## Upcoming Events
 
-- POSTPONED to 2025 (originally 2024 December 3), Pile Burning Operation by CAL FIRE in Soquel Demonstration Forest: [Notice in English](Updates/POSTPONED%20%20Soquel%20Demonstration%20State%20Forest%20Pile%20Burning%20Operation%20Postponed.pdf) or [Español](Updates/Operacion%20de%20quema%20controlada%20pospuesta%20debido%20a%20condiciones%20climaticas.pdf)
+- POSTPONED to early 2025 (originally 2024 December 3), Pile Burning Operation by CAL FIRE in Soquel Demonstration Forest: [Notice in English](Updates/POSTPONED%20%20Soquel%20Demonstration%20State%20Forest%20Pile%20Burning%20Operation%20Postponed.pdf) or [Español](Updates/Operacion%20de%20quema%20controlada%20pospuesta%20debido%20a%20condiciones%20climaticas.pdf)
+- 2025 November, Firewise Application Renewal
 
 ## Past Events
 
