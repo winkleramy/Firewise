@@ -17,7 +17,7 @@ We submitted our [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20
 
 Our application was accepted on December 20, 2024 and our community is currently *in good standing* by [Firewise USA<sup>TM</sup>](https://www.nfpa.org/education-and-research/wildfire/firewise-usa). 
 
-Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certificate.pdf) with your insurance provider for possible discounts for participating in an NFPA-recognized Firewise community.
+Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certificate.pdf) with your insurance provider for possible discounts for participating in an NFPA-recognized Firewise community. You can view and download this [map](Resources/Community%20Boundary.png) to confirm your property is within our community boundary. If you need a higher resolution version highlighting a specific property number, please [email](mailto:winkleramy@gmail.com?subject=Mt%20Bache%20Firewise%20Map%20Request) me. To see all the Firewise communities within Santa Cruz County, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
 
 ## Upcoming Events
 
@@ -25,6 +25,8 @@ Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certifica
 
 ## Past Events
 
+- 2024 December 20, Application for Firewise recognition accepted
+- 2024 October 31, Submitted Firewise [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf) through NFPA Firewise portal
 - 2024 September 24, Community Drive-through with Lynn Sestak: [Report](Community%20Risk%20Assessment%20-%20Drive-through%20Report.pdf) 
 - 2024 August 8, Why Go Firewise Presentation by Lynn Sestak: [Recorded Presentation](https://drive.google.com/file/d/18StnswwQRPs-_7-UmDB_mJhIE3Y8-Nci/view?usp=drivesdk) and [Slides](Resources/2024%20LS%20SCruz%20Why%20go%20Firewise%20Community%20version.pdf)
 
