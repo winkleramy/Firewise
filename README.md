@@ -68,7 +68,6 @@ Our steering committee circulated a google form survey to gauge interest in Fire
 The [GISWeb Assessors Map](https://gis.santacruzcountyca.gov/gisweb/) of our proposed Firewise community is shown below. The boundary is drawn in blue and encompasses 76 dwellings across 79 properties. The community boundary is informed by a multiple factors, including survey response, shared road access / evacuation route, the county line to our north, and the Spanish Ranch Firewise community boundary and Highland Rd to our south.
 <!-- <img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800"> -->
 <img src="Resources/Community Boundary.png" alt="Proposed Community Boundary" width="800">
-<iframe src="docs/map.html" height="800" width="800"></iframe>
 
 ### :white_check_mark: Step 2: Perform community risk assessment with a local fire professional
 
