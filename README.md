@@ -1,6 +1,12 @@
 # Mt Bache Loma Prieta Plus Firewise Community
 
-Hello, Neighbors, and thank you for your interest in Firewise! Click on a topic below to get started.
+Hello, Neighbors, and thank you for your interest in Firewise!
+
+To check whether your property is within the Mt Bache Loma Prieta Plus Community, check this [map](Resources/Community%20Boundary.png).
+
+To join our email list and/or WhatsApp group, please contact me at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20about%20Mt%20Bache%20Firewise%20Updates%20and%20Events). Please share your name, your address (to confirm you are within our community boundary), and your email address and/or phone number for future correspondence. 
+
+For information about our community, click on a topic below. 
 
 1. [Status](#status)
 2. [Upcoming Events](#upcoming-events)
@@ -66,6 +72,7 @@ Our steering committee circulated a google form survey to gauge interest in Fire
 
 #### Community Map
 The [GISWeb Assessors Map](https://gis.santacruzcountyca.gov/gisweb/) of our proposed Firewise community is shown below. The boundary is drawn in blue and encompasses 76 dwellings across 79 properties. The community boundary is informed by a multiple factors, including survey response, shared road access / evacuation route, the county line to our north, and the Spanish Ranch Firewise community boundary and Highland Rd to our south.
+
 <!-- <img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800"> -->
 <img src="Resources/Community Boundary.png" alt="Proposed Community Boundary" width="800">
 
