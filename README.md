@@ -121,8 +121,9 @@ Enjoy of a greater sense of community and resilience to whatever challenges come
 
 ## Resources for Property Owners
 
-For property-specific, one-on-one guidance on home hardening and defensible space, we recommend the following resources:
+For property-specific, one-on-one guidance on home hardening, defensible space, and evacuation, we recommend the following resources:
 
 - Request a free home ignition zone assessments from the Fire Safe Council, [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ)
 - Request a free on-site survey from the Resource Conservation District, for expert guidance on land management for both defensible space and maintaining a healthy ecosystem, [https://www.rcdsantacruz.org/request-services](https://www.rcdsantacruz.org/request-services)
 - Learn more about the why and how to harden your home and maintain defensible space, including where to buy noncombustible or Class A fire-rated materials for roofing, siding, fences, decks, etc., [https://firesafemarin.org/harden-your-home/](https://firesafemarin.org/harden-your-home/)
+- For evacuation information, visit the Santa Cruz County Office of Response, Recovery, and Resilience (OR3) [website](https://www.santacruzcountyca.gov/OR3/Response/Evacuations.aspx). You can check your evacuation zone [here](https://community.zonehaven.com/?latlon=36.96424815874178,-121.89650172251152&z=11.258739892981657). Our community includes properties in both evacuation zones **CRZ-E039** (Mount Bache, Haven Hill, Mar Vista, Highland, and Loma Prieta to the west of Rancho Prieta) and **CRZ-E042** (Rancho Prieta and Loma Prieta to the east).
