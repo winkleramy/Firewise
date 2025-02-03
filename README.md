@@ -27,6 +27,7 @@ Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certifica
 
 ## Upcoming Events
 
+- 2025 February 3, Resuming Pile Burning in The Forest of Nisene Marks: [Notice](Updates/RLS%20--%20Pile%20Burning%20at%20The%20Forest%20of%20Nisene%20Marks%20-01.31.2025.pdf)
 - POSTPONED to early 2025 (originally 2024 December 3), Pile Burning Operation by CAL FIRE in Soquel Demonstration Forest: [Notice in English](Updates/POSTPONED%20%20Soquel%20Demonstration%20State%20Forest%20Pile%20Burning%20Operation%20Postponed.pdf) or [Español](Updates/Operacion%20de%20quema%20controlada%20pospuesta%20debido%20a%20condiciones%20climaticas.pdf)
 - 2025 November, Firewise Application Renewal
 
