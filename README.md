@@ -2,7 +2,9 @@
 
 Hello, Neighbors, and thank you for your interest in Firewise!
 
-Explore our interactive [*Mt Bache Loma Prieta Plus Community Map*](https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html).
+Explore our interactive [*Mt Bache Loma Prieta Plus Community Map*](https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html)
+
+We are actively working on mapping key wildfire resources in our community to share with CAL FIRE, such as water sources, emergency vehicle turnarounds, and temporary refuge areas. Please contact me at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Community%20Map%20Project) to participate in this project. You can read more about the project [here](https://winkleramy.github.io/MtBacheLomaPrietaPlus/).
 
 To join our email list and/or WhatsApp group, please contact me at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20about%20Mt%20Bache%20Firewise%20Updates%20and%20Events). Please share your name, your address (to confirm you are within our community boundary), and your email address and/or phone number for future correspondence. 
 
@@ -27,8 +29,9 @@ Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certifica
 
 ## Upcoming Events
 
-- 2025 February 3, Resuming Pile Burning in The Forest of Nisene Marks: [Notice](Updates/RLS%20--%20Pile%20Burning%20at%20The%20Forest%20of%20Nisene%20Marks%20-01.31.2025.pdf)
-- POSTPONED to early 2025 (originally 2024 December 3), Pile Burning Operation by CAL FIRE in Soquel Demonstration Forest: [Notice in English](Updates/POSTPONED%20%20Soquel%20Demonstration%20State%20Forest%20Pile%20Burning%20Operation%20Postponed.pdf) or [Español](Updates/Operacion%20de%20quema%20controlada%20pospuesta%20debido%20a%20condiciones%20climaticas.pdf)
+- *Ongoing* (started 2025 January 15), Community Map Project: [Details](https://winkleramy.github.io/MtBacheLomaPrietaPlus/)
+- *Ongoing* (started 2025 February 3), Resuming Pile Burning in The Forest of Nisene Marks: [Notice](Updates/RLS%20--%20Pile%20Burning%20at%20The%20Forest%20of%20Nisene%20Marks%20-01.31.2025.pdf)
+- 2025 April 22, Wildfire Preparedness Workshop | Redwood Estates: [Reserve your spot](https://www.eventbrite.com/e/wildfire-preparedness-workshop-redwood-estates-los-gatos-2025-tickets-1220176453619?aff=ebemoffollowpublishemail&utm_campaign=following_published_event&ref=eemail&utm_medium=email&utm_source=eventbrite&utm_content=follow_notification)
 - 2025 November, Firewise Application Renewal
 
 ## Past Events
