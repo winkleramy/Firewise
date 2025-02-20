@@ -2,7 +2,7 @@
 
 Hello, Neighbors, and thank you for your interest in Firewise!
 
-To check whether your property is within the Mt Bache Loma Prieta Plus Community, check this [map](Resources/Community%20Boundary.png).
+Explore our interactive Mt Bache Loma Prieta Plus Community Map [here](https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html).
 
 To join our email list and/or WhatsApp group, please contact me at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20about%20Mt%20Bache%20Firewise%20Updates%20and%20Events). Please share your name, your address (to confirm you are within our community boundary), and your email address and/or phone number for future correspondence. 
 
@@ -72,8 +72,9 @@ We are lucky to have many people willing to participate in our steering committe
 Our steering committee circulated a google form survey to gauge interest in Firewise participation and the level of wildfire readiness of individual properties within our neighborhoods. An anonymized summary of the survey results can be viewed [here](Resources/Community%20Risk%20Assessment%20-%20Survey%20Results%20Summary.pdf). This survey opened in late August and closed on September 30, 2024. A big thank you to all our participants!! We even heard from residents outside our original outreach area and ultimately widened our community boundary to accommodate everyone. We tried to draw a reasonable boundary to include all survey participants, as well as considering shared risks like road access, evacuation routes, and adjacency to open spaces, without overextending ourselves. 
 
 #### Community Map
-The [GISWeb Assessors Map](https://gis.santacruzcountyca.gov/gisweb/) of our proposed Firewise community is shown below. The boundary is drawn in blue and encompasses 76 dwellings across 79 properties. The community boundary is informed by a multiple factors, including survey response, shared road access / evacuation route, the county line to our north, and the Spanish Ranch Firewise community boundary and Highland Rd to our south.
+We submitted the map below in our application to form a Firewise community. The boundary is drawn in blue and encompasses 76 dwellings across 79 properties. The community boundary is informed by a multiple factors, including survey response, shared road access / evacuation route, the county line to our north, and the Spanish Ranch Firewise community boundary and Highland Rd to our south.
 
+To see an interactive version of this map, which shows water sources, emergency vehicle turnaround points, and other features, click [here](https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html).
 <!-- <img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800"> -->
 <img src="Resources/Community Boundary.png" alt="Proposed Community Boundary" width="800">
 
@@ -127,6 +128,7 @@ For property-specific, one-on-one guidance on home hardening, defensible space, 
 - Request a free home ignition zone assessments from the Fire Safe Council, [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ)
 - Request a free on-site survey from the Resource Conservation District, for expert guidance on land management for both defensible space and maintaining a healthy ecosystem, [https://www.rcdsantacruz.org/request-services](https://www.rcdsantacruz.org/request-services)
 - Learn more about the why and how to harden your home and maintain defensible space, including where to buy noncombustible or Class A fire-rated materials for roofing, siding, fences, decks, etc., [https://firesafemarin.org/harden-your-home/](https://firesafemarin.org/harden-your-home/)
+- Review this guide on retrofitting your home to be resilient to wildfire, [Wildfire Retrofitting Guide](Resources/Wildfire-Retrofitting-Guide-ONLINE.pdf)
 - Consider native, fire-resistant plants recommended by the Resource Conservation District when landscaping, [Fire Scaping Native Plants PDF](Resources/2020updated%20FIRE%20SCAPING%20NATIVE%20PLANTS%20(Bay%20and%20Central%20Coast%20Area)%20pdf2.7.23.pdf)
 - Our community includes properties in evacuation zones CRZ-E039 and CRZ-E042. Confirm your [evacuation zone](https://community.zonehaven.com/?latlon=36.96424815874178,-121.89650172251152&z=11.258739892981657) and sign up for emergency notifications on [CruzAware](https://www.santacruzcountyca.gov/OR3/Response/PlanandPrepare/AlertNotificationApplication.aspx)
 - Review evacuation information at the Santa Cruz County Office of Response, Recovery, and Resilience (OR3) [website](https://www.santacruzcountyca.gov/OR3/Response/Evacuations.aspx)
