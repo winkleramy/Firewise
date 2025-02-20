@@ -31,7 +31,7 @@ Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certifica
 
 - *Ongoing* (started 2025 January 15), Community Map Project: [Details](https://winkleramy.github.io/MtBacheLomaPrietaPlus/)
 - *Ongoing* (started 2025 February 3), Resuming Pile Burning in The Forest of Nisene Marks: [Notice](Updates/RLS%20--%20Pile%20Burning%20at%20The%20Forest%20of%20Nisene%20Marks%20-01.31.2025.pdf)
-- 2025 April 22, Wildfire Preparedness Workshop | Redwood Estates: [Reserve your spot](https://www.eventbrite.com/e/wildfire-preparedness-workshop-redwood-estates-los-gatos-2025-tickets-1220176453619?aff=ebemoffollowpublishemail&utm_campaign=following_published_event&ref=eemail&utm_medium=email&utm_source=eventbrite&utm_content=follow_notification)
+- 2025 April 22, Wildfire Preparedness Workshop, Redwood Estates: [Reserve your spot](https://www.eventbrite.com/e/wildfire-preparedness-workshop-redwood-estates-los-gatos-2025-tickets-1220176453619?aff=ebemoffollowpublishemail&utm_campaign=following_published_event&ref=eemail&utm_medium=email&utm_source=eventbrite&utm_content=follow_notification)
 - 2025 November, Firewise Application Renewal
 
 ## Past Events
@@ -72,6 +72,7 @@ Our steering committee circulated a google form survey to gauge interest in Fire
 We submitted the map below in our application to form a Firewise community. The boundary is drawn in blue and encompasses 76 dwellings across 79 properties. The community boundary is informed by a multiple factors, including survey response, shared road access / evacuation route, the county line to our north, and the Spanish Ranch Firewise community boundary and Highland Rd to our south.
 
 To see an interactive version of this map, which shows water sources, emergency vehicle turnaround points, and other features, click [here](https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html).
+
 <!-- <img src="Resources/Mount Bache Neighborhood Subgroups.png" alt="Mount Bache Neighborhood Subgroups" width="800"> -->
 <img src="Resources/Community Boundary.png" alt="Proposed Community Boundary" width="800">
 
