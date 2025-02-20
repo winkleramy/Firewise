@@ -41,12 +41,6 @@ Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certifica
 - 2024 September 24, Community Drive-through with Lynn Sestak: [Report](Community%20Risk%20Assessment%20-%20Drive-through%20Report.pdf) 
 - 2024 August 8, Why Go Firewise Presentation by Lynn Sestak: [Recorded Presentation](https://drive.google.com/file/d/18StnswwQRPs-_7-UmDB_mJhIE3Y8-Nci/view?usp=drivesdk) and [Slides](Resources/2024%20LS%20SCruz%20Why%20go%20Firewise%20Community%20version.pdf)
 
-Quick links:
-- [Fire Safe Council of Santa Cruz County Website](https://www.firesafesantacruz.org/firewise-usa-recognition-program)
-- [Mt Bache Loma Prieta Plus 2024 New Application PDF](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf)
-- [Risk Assessment PDF](Firewise%20Community%20Assessment%20-%20Mt%20Bache%20Loma%20Prieta%20Plus.pdf)
-- [Action Plan PDF](Firewise%203Year%20Action%20Plan%20-%20Mt%20Bache%20Loma%20Prieta%20Plus.pdf)
-
 ## Why Join Firewise
 
 As we all know, living in the Santa Cruz Mountains is a beautiful experience but also a great challenge. Our forest ecosystem has undergone major changes in the last 150 years and needs our stewardship to adapt and thrive. We have learned from recent wildfire activity that we need to do more. The [Fire Safe Council of Santa Cruz](https://www.firesafesantacruz.org) formed in 2016 to educate and mobilize local residents to protect their lives, homes, communities, and environment from wildfire. The first step is to join Firewise! Firewise communities are self-organized neighborhoods, recognized by the National Fire Protection Agency, that build community resilience to wildfire and support the health of the forest and riparian ecosystems we are a part of and love so much. 
@@ -60,7 +54,7 @@ As we all know, living in the Santa Cruz Mountains is a beautiful experience but
 5. Document community's annual efforts, e.g. cleaning gutters, yard work, any home hardening improvements. Show at least one hour or $30 spent per year per household for these activities.
 6. Create an online account. Submit documentation from previous steps. Renew every three years.
 
-We completed these steps for our community and were recognized by the NFPA in December 2024. Each year, we will need to repeat steps 3 and 5, hosting or attend a community educational event and document our wildfire resilience efforts. After three years, late 2027 for us, we will need to update our three year plan and resubmit our application through the NFPA Firewise portal. Every five years, late 2029 for us, we will need to complete a new community risk assessment with a fire professional, with input from our community participants.
+We completed these steps for our community and were recognized by the NFPA in December 2024. Each year, we will need to repeat steps 3 and 5, by hosting or attending a community educational event and documenting our wildfire resilience efforts. After three years, late 2027 for us, we will need to update our three year plan and resubmit our application through the NFPA Firewise portal. Every five years, late 2029 for us, we will need to complete a new community risk assessment with a fire professional, with input from our community participants.
 
 ### Step 1: Form a steering committee and determine a community boundary
 
@@ -128,6 +122,7 @@ Enjoy of a greater sense of community and resilience to whatever challenges come
 
 For property-specific, one-on-one guidance on home hardening, defensible space, and evacuation, we recommend the following resources:
 
+- Learn more about Santa Cruz County's [Firewise Program](https://www.firesafesantacruz.org/firewise-usa-recognition-program)
 - Request a free home ignition zone assessments from the Fire Safe Council, [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ)
 - Request a free on-site survey from the Resource Conservation District, for expert guidance on land management for both defensible space and maintaining a healthy ecosystem, [https://www.rcdsantacruz.org/request-services](https://www.rcdsantacruz.org/request-services)
 - Learn more about the why and how to harden your home and maintain defensible space, including where to buy noncombustible or Class A fire-rated materials for roofing, siding, fences, decks, etc., [https://firesafemarin.org/harden-your-home/](https://firesafemarin.org/harden-your-home/)
