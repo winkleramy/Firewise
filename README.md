@@ -2,7 +2,7 @@
 
 Hello, Neighbors, and thank you for your interest in Firewise!
 
-Explore our interactive Mt Bache Loma Prieta Plus Community Map [here](https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html).
+Explore our interactive [*Mt Bache Loma Prieta Plus Community Map*](https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html).
 
 To join our email list and/or WhatsApp group, please contact me at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20about%20Mt%20Bache%20Firewise%20Updates%20and%20Events). Please share your name, your address (to confirm you are within our community boundary), and your email address and/or phone number for future correspondence. 
 
