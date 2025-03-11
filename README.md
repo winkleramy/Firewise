@@ -29,13 +29,15 @@ Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certifica
 
 ## Upcoming Events
 
-- *Ongoing* (started 2025 January 15), Community Map Project: [Details](https://winkleramy.github.io/MtBacheLomaPrietaPlus/)
-- *Ongoing* (started 2025 February 3), Resuming Pile Burning in The Forest of Nisene Marks: [Notice](Updates/RLS%20--%20Pile%20Burning%20at%20The%20Forest%20of%20Nisene%20Marks%20-01.31.2025.pdf)
+- *Ongoing* Community Map Project: [Details](https://winkleramy.github.io/MtBacheLomaPrietaPlus/)
+- 2025 March 18, 6-7:30pm, Community Wildfire Preparedness Workshop, Scotts Valley Community Center, 360 Kings Village Rd, Scotts Valley
 - 2025 April 22, Wildfire Preparedness Workshop, Redwood Estates: [Reserve your spot](https://www.eventbrite.com/e/wildfire-preparedness-workshop-redwood-estates-los-gatos-2025-tickets-1220176453619?aff=ebemoffollowpublishemail&utm_campaign=following_published_event&ref=eemail&utm_medium=email&utm_source=eventbrite&utm_content=follow_notification)
 - 2025 November, Firewise Application Renewal
 
 ## Past Events
 
+- 2025 March 4, Board of Forestry and Fire Protection Workshop: [Slides](Resources/Zone0%20Board%20of%20Forestry%20and%20Fire%20Protection%20Workshop%202025%20March%204.pdf)
+- 2025 February, Resuming Pile Burning in The Forest of Nisene Marks: [Notice](Updates/RLS%20--%20Pile%20Burning%20at%20The%20Forest%20of%20Nisene%20Marks%20-01.31.2025.pdf)
 - 2024 December 20, Application for Firewise recognition accepted
 - 2024 October 31, Submitted Firewise [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf) through NFPA Firewise portal
 - 2024 September 24, Community Drive-through with Lynn Sestak: [Report](Community%20Risk%20Assessment%20-%20Drive-through%20Report.pdf) 
