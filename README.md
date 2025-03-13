@@ -31,6 +31,7 @@ Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certifica
 
 - *Ongoing* Community Map Project: [Details](https://winkleramy.github.io/MtBacheLomaPrietaPlus/)
 - 2025 March 18, 6-7:30pm, Community Wildfire Preparedness Workshop, Scotts Valley Community Center, 360 Kings Village Rd, Scotts Valley: [Details](Updates/Community%20Wildfire%20Event%20in%20Scotts%20Valley.pdf)
+- 2025 March 30, 2-4pm, 95033 Area Firewise Leaders Gathering
 - 2025 April 22, Wildfire Preparedness Workshop, Redwood Estates: [Reserve your spot](https://www.eventbrite.com/e/wildfire-preparedness-workshop-redwood-estates-los-gatos-2025-tickets-1220176453619?aff=ebemoffollowpublishemail&utm_campaign=following_published_event&ref=eemail&utm_medium=email&utm_source=eventbrite&utm_content=follow_notification)
 - 2025 November, Firewise Application Renewal
 
