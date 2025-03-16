@@ -1,10 +1,24 @@
-# Why Join Firewise
+# Forming Our Firewise Community
 
-As we all know, living in the Santa Cruz Mountains is a beautiful experience but also a great challenge. Our forest ecosystem has undergone major changes in the last 150 years and needs our stewardship to adapt and thrive. We have learned from recent wildfire activity that we need to do more. The [Fire Safe Council of Santa Cruz](https://www.firesafesantacruz.org) formed in 2016 to educate and mobilize local residents to protect their lives, homes, communities, and environment from wildfire. The first step is to join Firewise! Firewise communities are self-organized neighborhoods, recognized by the National Fire Protection Agency, that build community resilience to wildfire and support the health of the forest and riparian ecosystems we are a part of and love so much. 
+[Return to Home Page](https://winkleramy.github.io/Firewise/)
 
-Our community [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf) to be an NFPA-recognized Firewise community was submitted on October 31, 2024 and accepted on December 20, 2024. A big thank you to our steering committee and community participants for sharing their time, expertise, and feedback, empowering us to reach this stage!! 
+As we all know, living in the Santa Cruz Mountains is a beautiful experience but also a great challenge. Our forest ecosystem has undergone major changes in the last 150 years and needs our stewardship to adapt and thrive. We have learned from recent wildfire activity that we need to do more. The [Fire Safe Council of Santa Cruz](https://www.firesafesantacruz.org) formed in 2016 to educate and mobilize local residents to protect their lives, homes, communities, and environment from wildfire. 
 
-To see all the Firewise communities within Santa Cruz County, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
+Firewise communities are self-organized neighborhoods, recognized by the National Fire Protection Agency, that build community resilience to wildfire and support the health of the forest and riparian ecosystems we are a part of and love so much. 
+
+We learned about the Firewise program from Lynn Sestak at the Fire Safe Council who presented "Why Go Firewise" to our community on August 8, 2024. A recording of the presentation and slides can be found at these links:
+- [Why Go Firewise Recorded Presentation](https://drive.google.com/file/d/18StnswwQRPs-_7-UmDB_mJhIE3Y8-Nci/view?usp=drivesdk)
+- [Why Go Firewise Slides](Resources/2024%20LS%20SCruz%20Why%20go%20Firewise%20Community%20version.pdf)
+
+Lynn also provided us a community risk assessment as we drove around our proposed Firewise community on September 24, 2024. Follow this link to read her [Report](Community%20Risk%20Assessment%20-%20Drive-through%20Report.pdf).
+
+More information about the Santa Cruz County Fire Safe Council's Firewise program can be found on their website at [https://www.firesafesantacruz.org/firewise-usa-recognition-program)](https://www.firesafesantacruz.org/firewise-usa-recognition-program). 
+
+Our county has more than 80 Firewise communities, with more communities added every year! To see all the Firewise communities within Santa Cruz County, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
+
+Our Firewise [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf) to form Mt Bache Loma Prieta Plus was submitted on October 31, 2024 and accepted on December 20, 2024. A big thank you to our steering committee and community participants for sharing their time, expertise, and feedback, empowering us to reach this stage!! 
+
+For more information on how our Firewise community was formed and our requirements for remaining in good standing, continuing reading How to Join Firewise.
 
 # How to Join Firewise
 
