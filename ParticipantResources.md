@@ -5,12 +5,13 @@
 
 As a Firewise community, we aim to support each other's wildfire resiliency efforts! Please remember to log your time and dollars spent on any efforts toward home hardening, defensible space, wildfire education, and evacuation planning. To remain in good standing, we need to report our community's cumulative time and dollars spent every November to the National Fire Protection Agency.
 
-Residents can use the spreadsheet below or can track privately and share with our steering committee around October for inclusion in our Firewise renewal application.
+Residents can use our shared spreadsheet or can track privately and share with our steering committee in October for inclusion in our Firewise renewal application.
 
-Also, check out the Contractor Experiences tab for neighborhood contractor recommendations! And please share your own experiences here for us to learn from.
+**To leave this page and go to the shared spreadsheet to log your Firewise activities, click [here](https://docs.google.com/spreadsheets/d/1HqfeKdMY8orYj6p21nRU8xL4xSn_N-H0nxbRe3LQyBw/edit?usp=share_link0)**
 
-## Log Wildfire Efforts
-<iframe src="https://docs.google.com/spreadsheets/d/1HqfeKdMY8orYj6p21nRU8xL4xSn_N-H0nxbRe3LQyBw/edit?usp=share_link" width="800" height="600"></iframe>
+Also, check out the Contractor Experiences tab for neighborhood contractor recommendations!
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTv8SLyShQXkrK9-rHo62fTQ4Atve-47c6uN5nX55iuYHDp5uaKVAguPKRT4eirio8cH8M4_JH91uww/pubhtml?gid=336015781&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 In 2025, we are specifically focusing on individual home hardening, emergency services access, evacuation planning, wildfire education, and outreach. Download the checklist below to see our recommended resident actions this year and share your feedback! 
 
