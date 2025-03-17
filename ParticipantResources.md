@@ -1,5 +1,6 @@
+<img src="Logo2.png" width="800">
 
-# Mt Bache Loma Prieta Plus Firewise Participant Resources
+# Firewise Participant Resources
 
 [Return to Home Page](https://winkleramy.github.io/Firewise/)
 
@@ -11,34 +12,24 @@ Residents can use our shared spreadsheet or can track privately and share with o
 
 Also, check out the Contractor Experiences tab for neighborhood contractor recommendations!
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTv8SLyShQXkrK9-rHo62fTQ4Atve-47c6uN5nX55iuYHDp5uaKVAguPKRT4eirio8cH8M4_JH91uww/pubhtml?gid=336015781&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTv8SLyShQXkrK9-rHo62fTQ4Atve-47c6uN5nX55iuYHDp5uaKVAguPKRT4eirio8cH8M4_JH91uww/pubhtml?gid=336015781&amp;single=true&amp;widget=true&amp;headers=false" width=800 height=250></iframe>
 
 In 2025, we are specifically focusing on individual home hardening, emergency services access, evacuation planning, wildfire education, and outreach. Download the checklist below to see our recommended resident actions this year and share your feedback! 
 
 ## Active Participant Checklist
-&#x2610; Install these apps on your smartphone:
-- [Watch Duty](https://app.watchduty.org) 
-- [Pulse Point](https://www.pulsepoint.org)
-
-&#x2610; Register to [CruzAware](https://cruzaware.genasys.com/portal/en) to receive emergency alerts for Santa Cruz County 
-
-&#x2610; Join neighborhood WhatsApp group for reach neighbors in an emergency. If you don't have WhatsApp, first install [WhatsApp](https://www.whatsapp.com) and walk through the set-up instructions on your smartphone. Then, share your phone number with our WhatsApp group admin by emailing winkleramy@gmail.com 
-
-&#x2610; Sign up for a free Home Ignition Zone assessment through the Santa Cruz County Fire Safe Council [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ)
-
-&#x2610; Install recommended reflective address sign (4" retroreflective numbers on reflective green background), available for $15 through Zayante Fire's [Reflective Sign Program](https://zayantefire.com/reflective-sign-program/) on from [Brimar's Safety Sign](https://www.safetysign.com/products/8348/horizontal-911-address-sign)
-
-&#x2610; Request a formal audit for any private fire hydrants. Contact Alyssa Plicka at aplicka001@gmail.com for more information
-
-&#x2610; Locate and share precise location and capacity of water tanks, pools, fire hydrants, and other water sources with Amy Winkler at winkleramy@gmail.com for inclusion in our [Community Map Project](https://winkleramy.github.io/MtBacheLomaPrietaPlus/)
-
-&#x2610; Practice driving alternate evacuation routes, e.g. Loma Prieta Ave west to Summit Rd and Highland east to Eureka Canyon Rd. These evacuation routes are shown on our [Community Map](https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html)
-
-&#x2610; For horse properties, become familiar with [Equine Evac](https://www.equineevac.com) 
-
-&#x2610; Complete at least one educational activity for wildfire preparedness. See our [Events Page](https://winkleramy.github.io/Firewise/Events.html) for upcoming educational events and activities.
-
-&#x2610; [Log](#log-wildfire-efforts) at least one hour or $31.80 dollars spent on home hardening and defensible space
+- [ ] Install these apps on your smartphone:
+    - [Watch Duty](https://app.watchduty.org) 
+    - [Pulse Point](https://www.pulsepoint.org)
+- [ ] Register to [CruzAware](https://cruzaware.genasys.com/portal/en) to receive emergency alerts for Santa Cruz County 
+- [ ] Join neighborhood WhatsApp group for reach neighbors in an emergency. If you don't have WhatsApp, first install [WhatsApp](https://www.whatsapp.com) and walk through the set-up instructions on your smartphone. Then, share your phone number with our WhatsApp group admin by emailing winkleramy@gmail.com 
+- [ ] Sign up for a free Home Ignition Zone assessment through the Santa Cruz County Fire Safe Council [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ)
+- [ ] Install recommended reflective address sign (4" retroreflective numbers on reflective green background), available for $15 through Zayante Fire's [Reflective Sign Program](https://zayantefire.com/reflective-sign-program/) on from [Brimar's Safety Sign](https://www.safetysign.com/products/8348/horizontal-911-address-sign)
+- [ ] Request a formal audit for any private fire hydrants. Contact Alyssa Plicka at aplicka001@gmail.com for more information
+- [ ] Locate and share precise location and capacity of water tanks, pools, fire hydrants, and other water sources with Amy Winkler at winkleramy@gmail.com for inclusion in our [Community Map Project](https://winkleramy.github.io/MtBacheLomaPrietaPlus/)
+- [ ] Practice driving alternate evacuation routes, e.g. Loma Prieta Ave west to Summit Rd and Highland east to Eureka Canyon Rd. These evacuation routes are shown on our [Community Map](https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html)
+- [ ] For horse properties, become familiar with [Equine Evac](https://www.equineevac.com) 
+- [ ] Complete at least one educational activity for wildfire preparedness. See our [Events Page](https://winkleramy.github.io/Firewise/Events.html) for upcoming educational events and activities.
+- [ ] Log at least one hour or $31.80 dollars spent on home hardening and defensible space
 
 ## Recognizing Fire Risks
 

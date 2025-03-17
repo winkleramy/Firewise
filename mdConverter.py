@@ -1,6 +1,6 @@
 import markdown
 
-name='WhyJoinFirewise'
+name='ParticipantResources'
 
 # Open the file for reading and read the input to a temp variable
 with open(name+'.md', 'r') as f:

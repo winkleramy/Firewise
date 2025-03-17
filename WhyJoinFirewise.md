@@ -1,3 +1,5 @@
+<img src="Logo2.png" width="800">
+
 # Forming Our Firewise Community
 
 [Return to Home Page](https://winkleramy.github.io/Firewise/)
