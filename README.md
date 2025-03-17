@@ -2,6 +2,8 @@
 
 # Mt Bache Loma Prieta Plus Firewise Community
 
+*Welcome to our new Home Page! Everything is still here but reorganized. To view the previous version of this home page, click [here](README%20Original.md)*
+
 Hello, Neighbors, and thank you for your interest in Firewise! Our goal is to work towards a more sustainable future for our community, protecting lives, homes, and our environment, by hardening our homes and infrastructure to wildfire events and promoting healthy forest and riparian ecosystems. As an NFPA-recognized Firewise community, we are connected to a large knowledgebase and resources to meet our goals.
 
 Learn more about us and how to participate by clicking on the links below.
