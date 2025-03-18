@@ -1,4 +1,50 @@
-# Why Join Firewise
+# Mt Bache Loma Prieta Plus Firewise Community
+
+Hello, Neighbors, and thank you for your interest in Firewise!
+
+Explore our interactive [*Mt Bache Loma Prieta Plus Community Map*](https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html)
+
+We are actively working on mapping key wildfire resources in our community to share with CAL FIRE, such as water sources, emergency vehicle turnarounds, and temporary refuge areas. Please contact me at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Community%20Map%20Project) to participate in this project. You can read more about the project [here](https://winkleramy.github.io/MtBacheLomaPrietaPlus/).
+
+To join our email list and/or WhatsApp group, please contact me at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20about%20Mt%20Bache%20Firewise%20Updates%20and%20Events). Please share your name, your address (to confirm you are within our community boundary), and your email address and/or phone number for future correspondence. 
+
+For information about our community, click on a topic below. 
+
+1. [Status](#status)
+2. [Upcoming Events](#upcoming-events)
+3. [Past Events](#past-events)
+4. [Background Information](#why-join-firewise)
+5. [Steering Committee](#steering-committee)
+6. [Community Map](#community-map)
+7. [Resources for Property Owners](#resources-for-property-owners)
+8. [Document My Firewise Activities](https://docs.google.com/spreadsheets/d/1HqfeKdMY8orYj6p21nRU8xL4xSn_N-H0nxbRe3LQyBw/edit?usp=share_link)
+
+## Status
+
+We submitted our [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf) to be an NFPA-recognized Firewise community on October 31, 2024. A big thank you to our steering committee and community participants for sharing their time, expertise, and feedback, empowering us to reach this stage!! 
+
+Our application was accepted on December 20, 2024 and our community is currently *in good standing* by [Firewise USA<sup>TM</sup>](https://www.nfpa.org/education-and-research/wildfire/firewise-usa). To remain in good standing, we will need to document our wildfire risk reduction efforts and share with Firewise USA<sup>TM</sup> annually. Click [here](https://docs.google.com/spreadsheets/d/1HqfeKdMY8orYj6p21nRU8xL4xSn_N-H0nxbRe3LQyBw/edit?usp=share_link) to see an example of how to document your activities. Participants are welcome to document activities on this sheet or track privately and share cumulative efforts - time/dollars spent plus estimated amount of brush removed - at the end of the year. Our steering committee will reach out around October to request this information for our annual renewal application.
+
+Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certificate.pdf) with your insurance provider for possible discounts for participating in an NFPA-recognized Firewise community. You can view and download this [map](Resources/Community%20Boundary.png) to confirm your property is within our community boundary. If you need a higher resolution version highlighting a specific property number, please [email](mailto:winkleramy@gmail.com?subject=Mt%20Bache%20Firewise%20Map%20Request) me. To see all the Firewise communities within Santa Cruz County, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
+
+## Upcoming Events
+
+- *Ongoing* Community Map Project: [Details](https://winkleramy.github.io/MtBacheLomaPrietaPlus/)
+- 2025 March 18, 6-7:30pm, Community Wildfire Preparedness Workshop, Scotts Valley Community Center, 360 Kings Village Rd, Scotts Valley: [Details](Updates/Community%20Wildfire%20Event%20in%20Scotts%20Valley.pdf)
+- 2025 March 30, 2-4pm, 95033 Area Firewise Leaders Gathering
+- 2025 April 22, Wildfire Preparedness Workshop, Redwood Estates: [Reserve your spot](https://www.eventbrite.com/e/wildfire-preparedness-workshop-redwood-estates-los-gatos-2025-tickets-1220176453619?aff=ebemoffollowpublishemail&utm_campaign=following_published_event&ref=eemail&utm_medium=email&utm_source=eventbrite&utm_content=follow_notification)
+- 2025 November, Firewise Application Renewal
+
+## Past Events
+
+- 2025 March 4, Board of Forestry and Fire Protection Workshop: [Slides](Resources/Zone0%20Board%20of%20Forestry%20and%20Fire%20Protection%20Workshop%202025%20March%204.pdf)
+- 2025 February, Resuming Pile Burning in The Forest of Nisene Marks: [Notice](Updates/RLS%20--%20Pile%20Burning%20at%20The%20Forest%20of%20Nisene%20Marks%20-01.31.2025.pdf)
+- 2024 December 20, Application for Firewise recognition accepted
+- 2024 October 31, Submitted Firewise [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20Application.pdf) through NFPA Firewise portal
+- 2024 September 24, Community Drive-through with Lynn Sestak: [Report](Community%20Risk%20Assessment%20-%20Drive-through%20Report.pdf) 
+- 2024 August 8, Why Go Firewise Presentation by Lynn Sestak: [Recorded Presentation](https://drive.google.com/file/d/18StnswwQRPs-_7-UmDB_mJhIE3Y8-Nci/view?usp=drivesdk) and [Slides](Resources/2024%20LS%20SCruz%20Why%20go%20Firewise%20Community%20version.pdf)
+
+## Why Join Firewise
 
 As we all know, living in the Santa Cruz Mountains is a beautiful experience but also a great challenge. Our forest ecosystem has undergone major changes in the last 150 years and needs our stewardship to adapt and thrive. We have learned from recent wildfire activity that we need to do more. The [Fire Safe Council of Santa Cruz](https://www.firesafesantacruz.org) formed in 2016 to educate and mobilize local residents to protect their lives, homes, communities, and environment from wildfire. The first step is to join Firewise! Firewise communities are self-organized neighborhoods, recognized by the National Fire Protection Agency, that build community resilience to wildfire and support the health of the forest and riparian ecosystems we are a part of and love so much. 
 
@@ -75,3 +121,16 @@ Our steering committee created an online account and submitted our [Firewise USA
 ### *Step 7: Reap the benefits!*
 
 Enjoy of a greater sense of community and resilience to whatever challenges come our way! Living in an NFPA-Firewise community also comes with state and local benefits, such as early access to the Free Chipping Program, provided by the Resource Conservation District of Santa Cruz County, and an insurance discount with the California Fair Plan. Remember to [log](https://docs.google.com/spreadsheets/d/1HqfeKdMY8orYj6p21nRU8xL4xSn_N-H0nxbRe3LQyBw/edit?usp=share_link) your home hardening and defensible space efforts for our future renewal application and look out for emails and WhatsApp messages regarding social and educational events for our community!
+
+## Resources for Property Owners
+
+For property-specific, one-on-one guidance on home hardening, defensible space, and evacuation, we recommend the following resources:
+
+- Learn more about Santa Cruz County's [Firewise Program](https://www.firesafesantacruz.org/firewise-usa-recognition-program)
+- Request a free home ignition zone assessments from the Fire Safe Council, [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ)
+- Request a free on-site survey from the Resource Conservation District, for expert guidance on land management for both defensible space and maintaining a healthy ecosystem, [https://www.rcdsantacruz.org/request-services](https://www.rcdsantacruz.org/request-services)
+- Learn more about the why and how to harden your home and maintain defensible space, including where to buy noncombustible or Class A fire-rated materials for roofing, siding, fences, decks, etc., [https://firesafemarin.org/harden-your-home/](https://firesafemarin.org/harden-your-home/)
+- Review this guide on retrofitting your home to be resilient to wildfire, [Wildfire Retrofitting Guide](Resources/Wildfire-Retrofitting-Guide-ONLINE.pdf)
+- Consider native, fire-resistant plants recommended by the Resource Conservation District when landscaping, [Fire Scaping Native Plants PDF](Resources/2020updated%20FIRE%20SCAPING%20NATIVE%20PLANTS%20(Bay%20and%20Central%20Coast%20Area)%20pdf2.7.23.pdf)
+- Our community includes properties in evacuation zones CRZ-E039 and CRZ-E042. Confirm your [evacuation zone](https://community.zonehaven.com/?latlon=36.96424815874178,-121.89650172251152&z=11.258739892981657) and sign up for emergency notifications on [CruzAware](https://www.santacruzcountyca.gov/OR3/Response/PlanandPrepare/AlertNotificationApplication.aspx)
+- Review evacuation information at the Santa Cruz County Office of Response, Recovery, and Resilience (OR3) [website](https://www.santacruzcountyca.gov/OR3/Response/Evacuations.aspx)
