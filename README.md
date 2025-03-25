@@ -26,7 +26,7 @@ Our vision of wildfire resilience includes protecting forest and riparian ecosys
 
 In 2024, we documented $120k in defensible space work, $80k in home hardening, and $1k in education and outreach. We have no doubt these numbers are actually much higher! And we are encouraging our neighbors to track their time and dollars spent towards wildfire resilience in 2025. See more on this topic on the [Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html) page.
 
-Most updates are shared via an email list, which currently include 33 households. We also have a WhatsApp group for sharing emergency information. To join these groups, please contact Amy Winkler at winkleramy@gmail.com.
+Most updates are shared via an email list, which currently includes 33 households. We also have a WhatsApp group for sharing emergency information. To join these groups, please contact Amy Winkler at winkleramy@gmail.com.
 
 Since not everyone in our community is connected via email and WhatsApp, we also outreach through in-person social events, neighbor-to-neighbor interaction, and postcards. We encourage our online participants to share information about our [Upcoming Events](https://winkleramy.github.io/Firewise/Events.html) with their mountain neighbors and friends!
 
