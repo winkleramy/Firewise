@@ -1,4 +1,4 @@
-<img src="Logo3.png" width="800">
+<img src="Logo3.png" width="1600">
 
 # Mt Bache Loma Prieta Plus Firewise Community
 
