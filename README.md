@@ -4,7 +4,7 @@
 
 *Welcome to our new Home Page! Everything is still here but reorganized. To view the previous version of this home page, click [here](README%20Original.html)*
 
-Hello, Neighbors, and thank you for your interest in Firewise! Our goal is to work towards a more sustainable future for our community, protecting lives, homes, and our environment, by hardening our homes and infrastructure to wildfire events and promoting healthy forest and riparian ecosystems. As an NFPA-recognized Firewise community, we are connected to a large knowledgebase and resources to meet our goals.
+Hello, Neighbors, and thank you for your interest in Firewise! Our goal is to work towards a more sustainable future for our community, protecting lives, homes, and our environment, by hardening our homes and infrastructure to wildfire events and promoting healthy forest and riparian ecosystems. As an NFPA-recognized Firewise community, we are connected to a large knowledgebase and resources to meet our goals. Participation in Firewise within Santa Cruz County is very high and growing every year! To see a map of all Firewise communities recognized by the NFPA, click [here](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67). To view Firewise community boundaries within Santa Cruz County specifically, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
 
 Learn more about us and how to participate by clicking on the links below.
 
