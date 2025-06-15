@@ -10,7 +10,7 @@ Learn more about us and how to participate by clicking on the links below.
 
 - [About Us](#about-us)
 - [Insurance Discounts](#insurance-discounts)
-- [Event Calendar](https://winkleramy.github.io/Firewise/Events.html)
+- [News and Events](https://winkleramy.github.io/Firewise/Events.html)
 - [Community Map Project](https://winkleramy.github.io/MtBacheLomaPrietaPlus/)
 - [Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html)
 - [Contact Us](#contact-us)
