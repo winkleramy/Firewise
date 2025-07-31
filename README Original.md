@@ -4,9 +4,9 @@ Hello, Neighbors, and thank you for your interest in Firewise!
 
 Explore our interactive [*Mt Bache Loma Prieta Plus Community Map*](https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html)
 
-We are actively working on mapping key wildfire resources in our community to share with CAL FIRE, such as water sources, emergency vehicle turnarounds, and temporary refuge areas. Please contact me at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Community%20Map%20Project) to participate in this project. You can read more about the project [here](https://winkleramy.github.io/MtBacheLomaPrietaPlus/).
+We are actively working on mapping key wildfire resources in our community to share with CAL FIRE, such as water sources, emergency vehicle turnarounds, and temporary refuge areas. Please contact me at [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Community%20Map%20Project) to participate in this project. You can read more about the project [here](https://winkleramy.github.io/MtBacheLomaPrietaPlus/).
 
-To join our email list and/or WhatsApp group, please contact me at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20about%20Mt%20Bache%20Firewise%20Updates%20and%20Events). Please share your name, your address (to confirm you are within our community boundary), and your email address and/or phone number for future correspondence. 
+To join our email list and/or WhatsApp group, please contact me at [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Please%20Contact%20Me%20about%20Mt%20Bache%20Firewise%20Updates%20and%20Events). Please share your name, your address (to confirm you are within our community boundary), and your email address and/or phone number for future correspondence. 
 
 For information about our community, click on a topic below. 
 
@@ -25,7 +25,7 @@ We submitted our [application](Mt%20Bache%20Loma%20Prieta%20Plus%202024%20New%20
 
 Our application was accepted on December 20, 2024 and our community is currently *in good standing* by [Firewise USA<sup>TM</sup>](https://www.nfpa.org/education-and-research/wildfire/firewise-usa). To remain in good standing, we will need to document our wildfire risk reduction efforts and share with Firewise USA<sup>TM</sup> annually. Click [here](https://docs.google.com/spreadsheets/d/1HqfeKdMY8orYj6p21nRU8xL4xSn_N-H0nxbRe3LQyBw/edit?usp=share_link) to see an example of how to document your activities. Participants are welcome to document activities on this sheet or track privately and share cumulative efforts - time/dollars spent plus estimated amount of brush removed - at the end of the year. Our steering committee will reach out around October to request this information for our annual renewal application.
 
-Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certificate.pdf) with your insurance provider for possible discounts for participating in an NFPA-recognized Firewise community. You can view and download this [map](Resources/Community%20Boundary.png) to confirm your property is within our community boundary. If you need a higher resolution version highlighting a specific property number, please [email](mailto:winkleramy@gmail.com?subject=Mt%20Bache%20Firewise%20Map%20Request) me. To see all the Firewise communities within Santa Cruz County, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
+Share this [certificate](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certificate.pdf) with your insurance provider for possible discounts for participating in an NFPA-recognized Firewise community. You can view and download this [map](Resources/Community%20Boundary.png) to confirm your property is within our community boundary. If you need a higher resolution version highlighting a specific property number, please [email](mailto:firewise@mtbacheloma.org?subject=Mt%20Bache%20Firewise%20Map%20Request) me. To see all the Firewise communities within Santa Cruz County, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
 
 ## Upcoming Events
 
@@ -64,10 +64,10 @@ We completed these steps for our community and were recognized by the NFPA in De
 We are lucky to have many people willing to participate in our steering committee! We are responsible for organizing and documenting our community's wildfire resilience efforts and reporting to the NFPA annually as well as updating our Action Plan every three years and updating our Community Risk Assessment every five years. We can't do it alone! Feedback and participation from our community residents is needed to be successful.
 
 #### Steering Committee
-1. Amy Winkler, serving Lower Mount Bache and Haven Hill, [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Mount%20Bache%20Firewise)
-2. Merry Fay, serving Rancho Prieta, [100wishes@comcast.net](mailto:100wishes@comcast.net?subject=Mount%20Bache%20Firewise)
-3. Marilyn Thelen, serving Upper Mount Bache and Loma Prieta, [marilynthe@aol.com](mailto:marilynthe@aol.com?subject=Mount%20Bache%20Firewise)
-4. Alyssa Plicka, serving Mar Vista and Highland, [aplicka001@gmail.com](mailto:aplicka001@gmail.com?subject=Mount%20Bache%20Firewise)
+1. Amy Winkler, serving Lower Mount Bache and Haven Hill, [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Mount%20Bache%20Firewise)
+2. Merry Fay, serving Rancho Prieta, [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Mount%20Bache%20Firewise)
+3. Marilyn Thelen, serving Upper Mount Bache and Loma Prieta, [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Mount%20Bache%20Firewise)
+4. Alyssa Plicka, serving Mar Vista and Highland, [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Mount%20Bache%20Firewise)
 
 Our steering committee circulated a google form survey to gauge interest in Firewise participation and the level of wildfire readiness of individual properties within our neighborhoods. An anonymized summary of the survey results can be viewed [here](Resources/Community%20Risk%20Assessment%20-%20Survey%20Results%20Summary.pdf). This survey opened in late August and closed on September 30, 2024. A big thank you to all our participants!! We even heard from residents outside our original outreach area and ultimately widened our community boundary to accommodate everyone. We tried to draw a reasonable boundary to include all survey participants, as well as considering shared risks like road access, evacuation routes, and adjacency to open spaces, without overextending ourselves. 
 
@@ -91,7 +91,7 @@ The results of the community risk assessment survey and drive-through are used t
 
 In 2024, our community event was a Zoom call with Lynn Sestak, volunteering as the Firewise Coordinator for Santa Cruz County, to share information and answer questions about Firewise. This event took place Thursday, August 8, 2024 at 6pm. A recording of Lynn's Zoom presentation can be found [here](https://drive.google.com/file/d/18StnswwQRPs-_7-UmDB_mJhIE3Y8-Nci/view?usp=drivesdk). A copy of the slides can be found [here](Resources/2024%20LS%20SCruz%20Why%20go%20Firewise%20Community%20version.pdf).
 
-In order to share information about this event and future events, our steering committee needs to know how to best contact you. We have contact details for all our survey responders. If you have not completed the survey but want to stay informed of future Firewise updates and events, please share your name, email address, and/or phone number with our steering committee by emailing Amy at [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Please%20Contact%20Me%20with%20Firewise%20Updates).
+In order to share information about this event and future events, our steering committee needs to know how to best contact you. We have contact details for all our survey responders. If you have not completed the survey but want to stay informed of future Firewise updates and events, please share your name, email address, and/or phone number with our steering committee by emailing Amy at [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Please%20Contact%20Me%20with%20Firewise%20Updates).
 
 ### Step 4: Develop a three-year plan
 

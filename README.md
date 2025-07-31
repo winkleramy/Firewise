@@ -26,7 +26,7 @@ Our vision of wildfire resilience includes protecting forest and riparian ecosys
 
 In 2024, we documented $120k in defensible space work, $80k in home hardening, and $1k in education and outreach. We have no doubt these numbers are actually much higher! And we are encouraging our neighbors to track their time and dollars spent towards wildfire resilience in 2025. See more on this topic on the [Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html) page.
 
-Most updates are shared via an email list, which currently includes 33 households. We also have a WhatsApp group for sharing emergency information. To join these groups, please contact Amy Winkler at winkleramy@gmail.com.
+Most updates are shared via an email list, which currently includes 33 households. We also have a WhatsApp group for sharing emergency information. To join these groups, please contact our steering committee at firewise@mtbacheloma.org.
 
 Since not everyone in our community is connected via email and WhatsApp, we also outreach through in-person social events, neighbor-to-neighbor interaction, and postcards. We encourage our online participants to share information about our [Upcoming Events](https://winkleramy.github.io/Firewise/Events.html) with their mountain neighbors and friends!
 
@@ -49,8 +49,4 @@ To see if you might qualify for other discounts, visit the California Department
 
 ## Contact Us
 
-For any questions or feedback, please reach out to our Firewise leaders:
-
-- Amy Winkler, [winkleramy@gmail.com](mailto:winkleramy@gmail.com?subject=Mount%20Bache%20Firewise)
-- Marilyn Thelen, [marilynthe@aol.com](mailto:marilynthe@aol.com?subject=Mount%20Bache%20Firewise)
-- Alyssa Plicka, [aplicka001@gmail.com](mailto:aplicka001@gmail.com?subject=Mount%20Bache%20Firewise)
+For any questions or feedback, please reach out to our Firewise steering committee at [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Mount%20Bache%20Firewise)
