@@ -1,17 +1,16 @@
 <img src="Logo3.png" width="1600">
 
+[About Us](#about-us) | [Insurance Discounts](#insurance-discounts) | [Participant Resources](#participant-resources) |  [News and Events](#news-and-events) | [Contact Us](#contact-us)
+
 # Mt Bache Loma Prieta Plus Firewise Community
 
-Hello, Neighbors, and thank you for your interest in Firewise! Our goal is to work towards a more sustainable future for our community, protecting lives, homes, and our environment, by hardening our homes and infrastructure to wildfire events and promoting healthy forest and riparian ecosystems. As an NFPA-recognized Firewise community, we are connected to a large knowledgebase and resources to meet our goals. Participation in Firewise within Santa Cruz County is very high and growing every year! To see a map of all Firewise communities recognized by the NFPA, click [here](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67). To view Firewise community boundaries within Santa Cruz County specifically, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
+Hello, Neighbors, and thank you for your interest in Firewise! 
+
+Our goal is to work towards a more sustainable future for our community, protecting lives, homes, and our environment, by hardening our homes and infrastructure to wildfire events and promoting healthy forest and riparian ecosystems. 
+
+As an NFPA-recognized Firewise community, we are connected to a large knowledgebase and resources to meet our goals. Participation in Firewise within Santa Cruz County is very high and growing every year! To see a map of all Firewise communities recognized by the NFPA, click [here](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67). To view Firewise community boundaries within Santa Cruz County specifically, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
 
 Learn more about us and how to participate by clicking on the links below.
-
-- [Mt Bache Loma Prieta Plus Firewise Community](#mt-bache-loma-prieta-plus-firewise-community)
-  - [About Us](#about-us)
-  - [Insurance Discounts](#insurance-discounts)
-  - [Participant Resources](#participant-resources)
-  - [News and Events](#news-and-events)
-  - [Contact Us](#contact-us)
 
 ## About Us
 
@@ -23,7 +22,7 @@ Our vision of wildfire resilience includes protecting forest and riparian ecosys
 
 In 2024, we documented $120k in defensible space work, $80k in home hardening, and $1k in education and outreach. We have no doubt these numbers are actually much higher! And we are encouraging our neighbors to track their time and dollars spent towards wildfire resilience in 2025. See more on this topic on the [Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html) page.
 
-Most updates are shared via an email list, which currently includes 33 households. We also have a WhatsApp group for sharing emergency information. To join these groups, please contact our steering committee at [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Mount%20Bache%20Firewise).
+Most updates are shared via an email list, which currently includes 33 households. We also have a WhatsApp group for sharing emergency information. To join these groups, please contact our steering committee at [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Join%20Firewise%20WhatsApp).
 
 Since not everyone in our community is connected via email and WhatsApp, we also outreach through in-person social events, neighbor-to-neighbor interaction, and postcards. We encourage our online participants to share information about our [Upcoming Events](https://winkleramy.github.io/Firewise/Events.html) with their mountain neighbors and friends!
 
@@ -54,4 +53,4 @@ To see upcoming events, visit our [Events](https://winkleramy.github.io/Firewise
 
 ## Contact Us
 
-For any questions or feedback, please reach out to our Firewise steering committee at [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Mount%20Bache%20Firewise)
+For any questions or feedback, please reach out to our Firewise steering committee at [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Mt%20Bache%20Loma%20Prieta%20Plus%20Firewise)
