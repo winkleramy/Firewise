@@ -6,19 +6,19 @@
 
 Hello, Neighbors, and thank you for your interest in Firewise! 
 
+## Our Mission
+
 Our goal is to work towards a more sustainable future for our community, protecting lives, homes, and our environment, by hardening our homes and infrastructure to wildfire events and promoting healthy forest and riparian ecosystems. 
 
-As an NFPA-recognized Firewise community, we are connected to a large knowledgebase and resources to meet our goals. Participation in Firewise within Santa Cruz County is very high and growing every year! To see a map of all Firewise communities recognized by the NFPA, click [here](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67). To view Firewise community boundaries within Santa Cruz County specifically, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
-
-Learn more about us and how to participate by clicking on the links below.
+Our vision of wildfire resilience includes protecting forest and riparian ecosystems, promoting good fire, and reducing ember ignition risks through home hardening and Zone 0 defense. Understanding our role as environmental stewarts is key to our resilience as a community, whether it be to wildfire, drought, or wet winters. We see our role to be an active one, with the understanding that the Santa Cruz Mountains evolved with humans playing an active role for thousands of years before colonization.
 
 ## About Us
 
-We are an NFPA-recognized Firewise Community in Santa Cruz County, running along Mount Bache up to Loma Prieta Way. We include some Highland Way properties and all properties on Haven Hill, Mar Vista, and Rancho Prieta. 
+As an NFPA-recognized Firewise community in Santa Cruz County, we are connected to a large knowledgebase and resources to meet our goals. Participation in Firewise within Santa Cruz County is very high and growing every year! To see a map of all Firewise communities recognized by the NFPA, click [here](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67). To view Firewise community boundaries within Santa Cruz County specifically, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
+
+Our community boundary runs along Mount Bache up to Loma Prieta Way. We include some Highland Way properties and all properties on Haven Hill, Mar Vista, and Rancho Prieta. 
 
 Our community boundary includes 78 parcels and 76 dwellings, including vineyard and horse properties as well as forest dwellings. Our water access depends on healthy streams and ground water, and so protecting forest and riparian ecosystems is key to our survival as a community. 
-
-Our vision of wildfire resilience includes protecting forest and riparian ecosystems, promoting good fire, and reducing ember ignition risks through home hardening and Zone 0 defense. Understanding our role as environmental stewarts is key to our resilience as a community, whether it be to wildfire, drought, or wet winters. We see our role to be an active one, with the understanding that the Santa Cruz Mountains evolved with humans playing an active role for thousands of years before colonization.
 
 In 2024, we documented $120k in defensible space work, $80k in home hardening, and $1k in education and outreach. We have no doubt these numbers are actually much higher! And we are encouraging our neighbors to track their time and dollars spent towards wildfire resilience in 2025. See more on this topic on the [Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html) page.
 
