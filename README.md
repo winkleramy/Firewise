@@ -84,7 +84,7 @@ To see if you might qualify for other discounts, visit the California Department
   - <a href="https://app.watchduty.org">Watch Duty</a>
   - <a href="https://www.pulsepoint.org">Pulse Point</a>
 - Register to <a href="https://cruzaware.genasys.com/portal/en">CruzAware</a> to receive emergency alerts for Santa Cruz County
-- Join neighborhood WhatsApp group for reach neighbors in an emergency. If you don't have WhatsApp, first install <a href="https://www.whatsapp.com">WhatsApp</a> and walk through the set-up instructions on your smartphone. Then, share your phone number with our WhatsApp group admin by emailing <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a>
+- Join neighborhood WhatsApp group to reach neighbors in an emergency. If you don't have WhatsApp, first install <a href="https://www.whatsapp.com">WhatsApp</a> and walk through the set-up instructions on your smartphone. Then, share your phone number with our WhatsApp group admin by emailing <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a>
 - Practice driving alternate evacuation routes, e.g. Loma Prieta Ave west to Summit Rd and Highland east to Eureka Canyon Rd. These evacuation routes are shown on our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html">Community Map</a>
 
 - For horse properties, become familiar with <a href="https://www.equineevac.com">Equine Evac</a>
