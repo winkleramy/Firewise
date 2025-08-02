@@ -1,10 +1,23 @@
 <img src="Logo3.png" width="1600">
 
-[About Us](#about-us) | [Insurance Discounts](#insurance-discounts) | [Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html) |  [News and Events](https://winkleramy.github.io/Firewise/Events.html) | [Contact Us](mailto:firewise@mtbacheloma.org?subject=Mt%20Bache%20Loma%20Prieta%20Plus%20Firewise)
+[About Us](#about-us) | [Insurance Discounts](#insurance-discounts) | [Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html) |  [Events](https://winkleramy.github.io/Firewise/Events.html) | [Contact Us](mailto:firewise@mtbacheloma.org?subject=Mt%20Bache%20Loma%20Prieta%20Plus%20Firewise)
 
 # Mt Bache Loma Prieta Plus Firewise Community
 
-Hello, Neighbors, and thank you for your interest in Firewise! 
+If you're new here, welcome!
+
+To check if your property is within our Firewise community boundary: 
+- Search for your address on [Santa Cruz County's Firewise Map](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0), 
+  or... 
+- Visit our [Interactive Community Map](https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html)
+  - The community boundary is drawn in blue
+  - Zoom in on your specific property to confirm the address number
+
+[Apply for an Insurance Discount](#insurance-discounts) | [Join the Email List](mailto:firewise@mtbacheloma.org?subject=Join%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List) | [Log Your Efforts](https://forms.gle/9SiHNTzaY7ipKmKU8)
+
+Not sure where to start? 
+[**Review our Community's Recommended Actions for 2025**](#active-participant-checklist)
+
 
 ## The Mission
 
@@ -16,13 +29,19 @@ We see our role to be an active one, with the understanding that the Santa Cruz 
 
 ## About Us
 
-As an NFPA-recognized Firewise community in Santa Cruz County, we are connected to a large knowledgebase and resources to meet our goals. Participation in Firewise within Santa Cruz County is very high and growing every year! To see a map of all Firewise communities recognized by the NFPA, click [here](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67). To view Firewise community boundaries within Santa Cruz County specifically, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
+As an NFPA-recognized Firewise community in Santa Cruz County, we are connected to a large knowledgebase and resources to meet our goals. 
+
+Participation in Firewise within Santa Cruz County is very high and growing every year! 
+
+- Click [here](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67) to leave this site and visit the NFPA's interactive map of all recognized Firewise communities
+
+- Click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0) to leave this site and visit the Santa Cruz County GIS map of Firewise community boundaries within Santa Cruz County, including Mt Bache Loma Prieta Plus!
 
 Our community boundary runs along Mount Bache up to Loma Prieta Way. We include some Highland Way properties and all properties on Haven Hill, Mar Vista, and Rancho Prieta. In total, we encompass 78 parcels and 76 dwellings, including vineyard and horse properties as well as forest dwellings. 
 
 In 2024, we documented $120k in defensible space work, $80k in home hardening, and $1k in education and outreach. We have no doubt these numbers are actually much higher! And we are encouraging our neighbors to track their time and dollars spent towards wildfire resilience in 2025. See more on this topic on the [Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html) page.
 
-Most updates are shared via an email list, which currently includes 33 households. We also have a WhatsApp group for sharing emergency information. To join these groups, please contact our steering committee at [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Join%20Firewise%20WhatsApp).
+Most updates are shared via an email list, which currently includes 33 households. We also have a WhatsApp group for sharing emergency information. To join these groups, please contact our steering committee at [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Join%20Firewise%20Email%20List/WhatsApp).
 
 Since not everyone in our community is connected via email and WhatsApp, we also outreach through in-person social events, neighbor-to-neighbor interaction, and postcards. We encourage our online participants to share information about our [Upcoming Events](https://winkleramy.github.io/Firewise/Events.html) with their mountain neighbors and friends!
 
@@ -42,6 +61,56 @@ To continue to qualify in future years, our Firewise community needs to document
 Participants can log wildfire preparation activities [here](https://forms.gle/9SiHNTzaY7ipKmKU8) or track privately and share cumulative efforts - time/dollars spent plus estimated amount of brush removed - at the end of the year. Our steering committee will reach out in October to request this information for our annual renewal application.
 
 To see if you might qualify for other discounts, visit the California Department of Insurance website [Safer from Wildfires](https://www.insurance.ca.gov/01-consumers/200-wrr/Safer-from-Wildfires.cfm)
+
+<h2 id="active-participant-checklist">Actions for 2025</h2>
+
+<p>All the recommended actions here are <em>completely voluntary</em>. We welcome your participation, whether it be to share information with us or tackle a big defensible space project. Firewise is here as a support.</p>
+
+<p>Our recommended actions this year are based on our community risk assessment and survey. The focus is on individual home hardening, emergency services access, evacuation planning, wildfire education, and outreach.</p>
+
+<h3> Home Hardening</h3>
+
+<ul>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Sign up for a free Home Ignition Zone assessment through the Santa Cruz County Fire Safe Council <a href="https://www.firesafesantacruz.org/HIZ">https://www.firesafesantacruz.org/HIZ</a></li>
+</ul>
+
+<h3> Emergency Services Access</h3>
+
+<ul>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Install recommended reflective address sign (4&quot; retroreflective numbers on reflective green background), available for $15 through Zayante Fire's <a href="https://zayantefire.com/reflective-sign-program/">Reflective Sign Program</a> or from <a href="https://www.safetysign.com/products/8348/horizontal-911-address-sign">Brimar's Safety Sign</a></li>
+
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Request a formal audit for any private fire hydrants. Contact our steering committee at <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a> for more information</li>
+
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Locate and share precise location and capacity of water tanks, pools, fire hydrants, and other water sources with our steering committee at <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a> for inclusion in our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/">Community Map Project</a></li>
+
+</ul>
+
+<h3> Evacuation Planning</h3>
+
+<ul class="contains-task-list">
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Install these apps on your smartphone:
+<ul>
+<li><a href="https://app.watchduty.org">Watch Duty</a></li>
+<li><a href="https://www.pulsepoint.org">Pulse Point</a></li>
+</ul>
+</li>
+
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Register to <a href="https://cruzaware.genasys.com/portal/en">CruzAware</a> to receive emergency alerts for Santa Cruz County</li>
+
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Join neighborhood WhatsApp group for reach neighbors in an emergency. If you don't have WhatsApp, first install <a href="https://www.whatsapp.com">WhatsApp</a> and walk through the set-up instructions on your smartphone. Then, share your phone number with our WhatsApp group admin by emailing <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a></li>
+
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Practice driving alternate evacuation routes, e.g. Loma Prieta Ave west to Summit Rd and Highland east to Eureka Canyon Rd. These evacuation routes are shown on our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html">Community Map</a></li>
+
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> For horse properties, become familiar with <a href="https://www.equineevac.com">Equine Evac</a></li>
+</ul>
+
+<h3>Wildfire Education and Outreach</h3>
+
+<ul>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Complete at least one educational activity for wildfire preparedness. See our <a href="https://winkleramy.github.io/Firewise/Events.html">Events Page</a> for upcoming educational events and activities.</li>
+
+<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> <a href="https://forms.gle/9SiHNTzaY7ipKmKU8">Log</a> at least one hour or $31.80 dollars spent on home hardening and defensible space</li>
+</ul>
 
 [Return to Top of Page](#mt-bache-loma-prieta-plus-firewise-community)
 
