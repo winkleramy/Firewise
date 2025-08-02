@@ -14,8 +14,6 @@ Our vision of wildfire resilience includes protecting forest and riparian ecosys
 
 We see our role to be an active one, with the understanding that the Santa Cruz Mountains evolved with humans playing an active role for thousands of years before colonization.
 
-
-
 ## About Us
 
 As an NFPA-recognized Firewise community in Santa Cruz County, we are connected to a large knowledgebase and resources to meet our goals. Participation in Firewise within Santa Cruz County is very high and growing every year! To see a map of all Firewise communities recognized by the NFPA, click [here](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67). To view Firewise community boundaries within Santa Cruz County specifically, click [here](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0).
@@ -44,3 +42,6 @@ To continue to qualify in future years, our Firewise community needs to document
 Participants can log wildfire preparation activities [here](https://forms.gle/9SiHNTzaY7ipKmKU8) or track privately and share cumulative efforts - time/dollars spent plus estimated amount of brush removed - at the end of the year. Our steering committee will reach out in October to request this information for our annual renewal application.
 
 To see if you might qualify for other discounts, visit the California Department of Insurance website [Safer from Wildfires](https://www.insurance.ca.gov/01-consumers/200-wrr/Safer-from-Wildfires.cfm)
+
+[Return to Top of Page](#mt-bache-loma-prieta-plus-firewise-community)
+
