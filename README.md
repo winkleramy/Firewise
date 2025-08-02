@@ -16,7 +16,7 @@ To check if your property is within our Firewise community boundary:
 [Apply for an Insurance Discount](#insurance-discounts) | [Join the Email List](mailto:firewise@mtbacheloma.org?subject=Join%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List) | [Log Your Efforts](https://forms.gle/9SiHNTzaY7ipKmKU8)
 
 Not sure where to start? 
-[**Review our Community's Recommended Actions for 2025**](#active-participant-checklist)
+[**Review our Community's Recommended Actions for 2025**](#actions-for-2025)
 
 
 ## The Mission
@@ -62,55 +62,43 @@ Participants can log wildfire preparation activities [here](https://forms.gle/9S
 
 To see if you might qualify for other discounts, visit the California Department of Insurance website [Safer from Wildfires](https://www.insurance.ca.gov/01-consumers/200-wrr/Safer-from-Wildfires.cfm)
 
-<h2 id="active-participant-checklist">Actions for 2025</h2>
+## Actions for 2025
 
 <p>All the recommended actions here are <em>completely voluntary</em>. We welcome your participation, whether it be to share information with us or tackle a big defensible space project. Firewise is here as a support.</p>
 
 <p>Our recommended actions this year are based on our community risk assessment and survey. The focus is on individual home hardening, emergency services access, evacuation planning, wildfire education, and outreach.</p>
 
-<h3> Home Hardening</h3>
+### Home Hardening
 
-<ul>
-<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Sign up for a free Home Ignition Zone assessment through the Santa Cruz County Fire Safe Council <a href="https://www.firesafesantacruz.org/HIZ">https://www.firesafesantacruz.org/HIZ</a></li>
-</ul>
+- [ ] Sign up for a free Home Ignition Zone assessment through the Santa Cruz County Fire Safe Council <a href="https://www.firesafesantacruz.org/HIZ">https://www.firesafesantacruz.org/HIZ
 
-<h3> Emergency Services Access</h3>
+### Emergency Services Access
 
-<ul>
-<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Install recommended reflective address sign (4&quot; retroreflective numbers on reflective green background), available for $15 through Zayante Fire's <a href="https://zayantefire.com/reflective-sign-program/">Reflective Sign Program</a> or from <a href="https://www.safetysign.com/products/8348/horizontal-911-address-sign">Brimar's Safety Sign</a></li>
+- [ ] Install recommended reflective address sign (4&quot; retroreflective numbers on reflective green background), available for $15 through Zayante Fire's <a href="https://zayantefire.com/reflective-sign-program/">Reflective Sign Program</a> or from <a href="https://www.safetysign.com/products/8348/horizontal-911-address-sign">Brimar's Safety Sign</a>
 
-<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Request a formal audit for any private fire hydrants. Contact our steering committee at <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a> for more information</li>
+- [ ] Request a formal audit for any private fire hydrants. Contact our steering committee at <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a> for more information
 
-<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Locate and share precise location and capacity of water tanks, pools, fire hydrants, and other water sources with our steering committee at <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a> for inclusion in our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/">Community Map Project</a></li>
+- [ ] Locate and share precise location and capacity of water tanks, pools, fire hydrants, and other water sources with our steering committee at <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a> for inclusion in our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/">Community Map Project</a>
 
-</ul>
+### Evacuation Planning
 
-<h3> Evacuation Planning</h3>
+- [ ] Install these apps on your smartphone:
+ - <a href="https://app.watchduty.org">Watch Duty</a>
+- <a href="https://www.pulsepoint.org">Pulse Point</a>
 
-<ul class="contains-task-list">
-<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Install these apps on your smartphone:
-<ul>
-<li><a href="https://app.watchduty.org">Watch Duty</a></li>
-<li><a href="https://www.pulsepoint.org">Pulse Point</a></li>
-</ul>
-</li>
+- [ ] Register to <a href="https://cruzaware.genasys.com/portal/en">CruzAware</a> to receive emergency alerts for Santa Cruz County
 
-<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Register to <a href="https://cruzaware.genasys.com/portal/en">CruzAware</a> to receive emergency alerts for Santa Cruz County</li>
+- [ ] Join neighborhood WhatsApp group for reach neighbors in an emergency. If you don't have WhatsApp, first install <a href="https://www.whatsapp.com">WhatsApp</a> and walk through the set-up instructions on your smartphone. Then, share your phone number with our WhatsApp group admin by emailing <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a>
 
-<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Join neighborhood WhatsApp group for reach neighbors in an emergency. If you don't have WhatsApp, first install <a href="https://www.whatsapp.com">WhatsApp</a> and walk through the set-up instructions on your smartphone. Then, share your phone number with our WhatsApp group admin by emailing <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a></li>
+- [ ] Practice driving alternate evacuation routes, e.g. Loma Prieta Ave west to Summit Rd and Highland east to Eureka Canyon Rd. These evacuation routes are shown on our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html">Community Map</a>
 
-<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Practice driving alternate evacuation routes, e.g. Loma Prieta Ave west to Summit Rd and Highland east to Eureka Canyon Rd. These evacuation routes are shown on our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/map.html">Community Map</a></li>
+- [ ] For horse properties, become familiar with <a href="https://www.equineevac.com">Equine Evac</a>
 
-<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> For horse properties, become familiar with <a href="https://www.equineevac.com">Equine Evac</a></li>
-</ul>
+### Wildfire Education and Outreach
 
-<h3>Wildfire Education and Outreach</h3>
+- [ ] Complete at least one educational activity for wildfire preparedness. See our <a href="https://winkleramy.github.io/Firewise/Events.html">Events Page</a> for upcoming educational events and activities
 
-<ul>
-<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> Complete at least one educational activity for wildfire preparedness. See our <a href="https://winkleramy.github.io/Firewise/Events.html">Events Page</a> for upcoming educational events and activities.</li>
-
-<li class="task-list-item enabled"><input class="task-list-item-checkbox"type="checkbox"> <a href="https://forms.gle/9SiHNTzaY7ipKmKU8">Log</a> at least one hour or $31.80 dollars spent on home hardening and defensible space</li>
-</ul>
+- [ ] <a href="https://forms.gle/9SiHNTzaY7ipKmKU8">Log</a> at least one hour or $31.80 dollars spent on home hardening and defensible space
 
 [Return to Top of Page](#mt-bache-loma-prieta-plus-firewise-community)
 
