@@ -4,10 +4,6 @@
 
 # Mt Bache Loma Prieta Plus Firewise Community
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTv8SLyShQXkrK9-rHo62fTQ4Atve-47c6uN5nX55iuYHDp5uaKVAguPKRT4eirio8cH8M4_JH91uww/pubchart?oid=968811351&format=interactive" width=400 height=250></iframe>
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTv8SLyShQXkrK9-rHo62fTQ4Atve-47c6uN5nX55iuYHDp5uaKVAguPKRT4eirio8cH8M4_JH91uww/pubchart?oid=968811351&amp;format=interactive"></iframe>
-
 If you're new here, welcome!
 
 To check if your property is within our Firewise community boundary: 
