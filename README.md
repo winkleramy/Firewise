@@ -51,7 +51,7 @@ The California FairPlan offers discounts for Firewise participation, home harden
 
 To apply for the Firewise discount, download and share the following documents with your insurance broker:
 
-- [Firewise Certificate 2025](Mt%20Bache%20Loma%20Prieta%20Plus%20%202024%20Certificate.pdf)
+- [Firewise Certificate 2026](Mt%20Bache%20Loma%20Prieta%20Plus%20%202025%20Certificate.pdf)
 - [Community Map](Resources/Community%20Boundary.png)
 
 If you are within our Firewise community boundary, then you automatically qualify for a Firewise participation discount with the California FairPlan in 2025.
