@@ -72,15 +72,16 @@ To see if you might qualify for other discounts, visit the California Department
 
 <p>Our recommended actions this year are based on our community risk assessment and survey. The focus is on individual home hardening, emergency services access, evacuation planning, wildfire education, and outreach.</p>
 
-### Home Hardening
+### Home Hardening & Defensible Space
 
   - Sign up for a free Home Ignition Zone assessment through the Santa Cruz County Fire Safe Council <a href="https://www.firesafesantacruz.org/HIZ">https://www.firesafesantacruz.org/HIZ
+  - Join our email list before March for early access to the Resource Conservation District's [Spring No-Cost Chipping Program](https://www.rcdsantacruz.org/spring-chipping-information)
 
 ### Emergency Services Access
 
 - Install recommended reflective address sign (4&quot; retroreflective numbers on reflective green background), available for $15 through Zayante Fire's <a href="https://zayantefire.com/reflective-sign-program/">Reflective Sign Program</a> or from <a href="https://www.safetysign.com/products/8348/horizontal-911-address-sign">Brimar's Safety Sign</a>
 - Test any private fire hydrants for potential blockages
-- Locate and share precise location and capacity of water tanks, pools, fire hydrants, and other water sources with our steering committee at <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a> for inclusion in our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/">Community Map Project</a>
+- Locate and share location and capacity of water tanks, pools, fire hydrants, and other water sources with our steering committee at <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a> for inclusion in our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/">Community Map Project</a>
 
 ### Evacuation Planning
 
