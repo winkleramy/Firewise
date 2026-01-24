@@ -41,6 +41,8 @@ Our community has expanded since then to include 80 properties from the Mount Ba
 
 <p align="center">
 <em>Mt Bache Loma Prieta Plus Firewise Steering Committee 2026!</em>
+</p>
+<p align="center">
 <img align="center" width="50%" src="Resources/SteeringCommitteePhotos/SteeringCommittee2026.png">
 </p>
 <p align="center">
