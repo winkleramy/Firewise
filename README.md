@@ -41,8 +41,10 @@ Our community has expanded since then to include 80 properties from the Mount Ba
 
 <p align="center">
 <em>Mt Bache Loma Prieta Plus Firewise Steering Committee 2026!</em>
-<img align="center" src="Resources/SteeringCommitteePhotos/SteeringCommittee2026.png">
-<em align="center">From left to right, Alyssa Plicka, Amy Winkler, Marilyn Thelen, Jim Parker</em>
+<img align="center" width="50%" src="Resources/SteeringCommitteePhotos/SteeringCommittee2026.png">
+</p>
+<p align="center">
+From left to right, Alyssa Plicka, Amy Winkler, Marilyn Thelen, Jim Parker
 </p>
 
 Participation in Firewise within Santa Cruz County is very high and growing every year! Peruse the latest Firewise community maps at...
