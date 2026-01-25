@@ -1,9 +1,9 @@
 <img src="Logo3.png" width="1600">
 
-[About Us](#about-us) | [Insurance Discounts](#insurance-discounts) | [Events](https://winkleramy.github.io/Firewise/Events.html) | [Contact Us](mailto:firewise@mtbacheloma.org?subject=Mt%20Bache%20Loma%20Prieta%20Plus%20Firewise)
+[About Us](#about-us) | [Insurance Discounts](#insurance-discounts) | [Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html)
 
 
-[Log Time & Investment](https://forms.gle/9SiHNTzaY7ipKmKU8) | [Join the Email List](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List) | [Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html)
+[Log Time & Investment](https://forms.gle/9SiHNTzaY7ipKmKU8) | [Join the Email List](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List) | [Contact Us](mailto:firewise@mtbacheloma.org?subject=Mt%20Bache%20Loma%20Prieta%20Plus%20Firewise)
 
 # Mt Bache Loma Prieta Plus Firewise Community
 
@@ -81,7 +81,7 @@ To see if you might qualify for other discounts, visit the California Department
 
 - Install recommended reflective address sign (4&quot; retroreflective numbers on reflective green background), available for $15 through Zayante Fire's <a href="https://zayantefire.com/reflective-sign-program/">Reflective Sign Program</a> or from <a href="https://www.safetysign.com/products/8348/horizontal-911-address-sign">Brimar's Safety Sign</a>
 - Test any private fire hydrants for potential blockages
-- Locate and share location and capacity of water tanks, pools, fire hydrants, and other water sources with our steering committee at <a href="mailto:firewise@mtbacheloma.org">firewise@mtbacheloma.org</a> for inclusion in our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/">Community Map Project</a>
+- <a href="mailto:firewise@mtbacheloma.org?subject=Add%20my%20cell%20number%20to%20neighborhood%20WhatsApp">Contact Us</a> with the location and capacity of water tanks, pools, fire hydrants, and other water sources for inclusion in our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/">Community Map Project</a>
 
 ### Evacuation Planning
 
@@ -89,8 +89,9 @@ To see if you might qualify for other discounts, visit the California Department
   - <a href="https://app.watchduty.org">Watch Duty</a>
   - <a href="https://www.pulsepoint.org">Pulse Point</a>
 - Register to <a href="https://cruzaware.genasys.com/portal/en">CruzAware</a> to receive emergency alerts for Santa Cruz County
-- Join neighborhood WhatsApp group to reach neighbors in an emergency. If you don't have WhatsApp, first install <a href="https://www.whatsapp.com">WhatsApp</a> and walk through the set-up instructions on your smartphone. Then, share your phone number with our WhatsApp group admin by emailing <a href="mailto:firewise@mtbacheloma.org?subject=Add%20my%20cell%20number%20to%20neighborhood%20WhatsApp">firewise@mtbacheloma.org</a>
-- Practice driving alternate evacuation routes, e.g. Loma Prieta Ave west to Summit Rd and Highland east to Eureka Canyon Rd. These evacuation routes are shown on our <a href="https://winkleramy.github.io/MtBacheLoma/map.html">Community Map</a>
+- <a href="mailto:firewise@mtbacheloma.org?subject=Add%20my%20cell%20number%20to%20neighborhood%20WhatsApp">Contact Us</a> to join the neighborhood WhatsApp group for emergency correspondence. 
+  <p><em>If you don't have WhatsApp, first install <a href="https://www.whatsapp.com">WhatsApp</a> and walk through the set-up instructions on your smartphone</em></p>
+- Practice driving alternate evacuation routes, e.g. Loma Prieta Ave west to Summit Rd and Highland east to Eureka Canyon Rd
 
 - For horse properties, become familiar with <a href="https://www.equineevac.com">Equine Evac</a>
 
