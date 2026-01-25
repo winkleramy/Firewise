@@ -1,9 +1,9 @@
 <img src="Logo3.png" width="1600">
 
-[About Us](#about-us) | [Insurance Discounts](#insurance-discounts) | [Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html)
+[About Us](#about-us) | [Insurance Discounts](#insurance-discounts) | [Recommended Actions](#actions-for-this-year)
 
 
-[Log Time & Investment](https://forms.gle/9SiHNTzaY7ipKmKU8) | [Join the Email List](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List) | [Contact Us](mailto:firewise@mtbacheloma.org?subject=Mt%20Bache%20Loma%20Prieta%20Plus%20Firewise)
+[Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html) | [Log Time & Investment](https://forms.gle/9SiHNTzaY7ipKmKU8) | [Join the Email List](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List)
 
 # Mt Bache Loma Prieta Plus Firewise Community
 
@@ -49,6 +49,8 @@ Our community has expanded since then to include 80 properties from the Mount Ba
 From left to right, Alyssa Plicka, Amy Winkler, Marilyn Thelen, Jim Parker
 </p>
 
+To contact our steering committee with questions, comments, suggestions, email [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Firewise%20Questions%20and%20Feedback)
+
 Participation in Firewise within Santa Cruz County is very high and growing every year! Peruse the latest Firewise community maps at...
 
 - [NFPA GIS Map](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67) of Firewise communities nationwide
@@ -75,13 +77,13 @@ To see if you might qualify for other discounts, visit the California Department
 ### Home Hardening & Defensible Space
 
   - Sign up for a free Home Ignition Zone assessment through the Santa Cruz County Fire Safe Council <a href="https://www.firesafesantacruz.org/HIZ">https://www.firesafesantacruz.org/HIZ
-  - Join our email list before March for early access to the Resource Conservation District's [Spring No-Cost Chipping Program](https://www.rcdsantacruz.org/spring-chipping-information)
+  - [Join the Email List](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List) before March for early access to the Resource Conservation District's [Spring No-Cost Chipping Program](https://www.rcdsantacruz.org/spring-chipping-information)
 
 ### Emergency Services Access
 
 - Install recommended reflective address sign (4&quot; retroreflective numbers on reflective green background), available for $15 through Zayante Fire's <a href="https://zayantefire.com/reflective-sign-program/">Reflective Sign Program</a> or from <a href="https://www.safetysign.com/products/8348/horizontal-911-address-sign">Brimar's Safety Sign</a>
 - Test any private fire hydrants for potential blockages
-- <a href="mailto:firewise@mtbacheloma.org?subject=Add%20my%20cell%20number%20to%20neighborhood%20WhatsApp">Contact Us</a> with the location and capacity of water tanks, pools, fire hydrants, and other water sources for inclusion in our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/">Community Map Project</a>
+- Learn how to participate in our <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/">Community Map Project</a>, which provides critical resource information to CAL FIRE and other emergency responders 
 
 ### Evacuation Planning
 
