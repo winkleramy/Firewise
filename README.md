@@ -100,7 +100,7 @@ To see if you might qualify for other discounts, visit the California Department
 ### Wildfire Education and Outreach
 
 - Complete at least one educational activity for wildfire preparedness. See our <a href="https://winkleramy.github.io/Firewise/Events.html">Events Page</a> for upcoming educational events and activities
-- <a href="https://forms.gle/9SiHNTzaY7ipKmKU8">Log</a> at least one hour or $31.80 dollars spent on home hardening and defensible space
+- <a href="https://winkleramy.github.io/Firewise/ParticipantResources.html#Log">Log</a> at least one hour or $31.80 dollars spent on home hardening and defensible space
 
 [Return to Top of Page](#mt-bache-loma-prieta-plus-firewise-community)
 
