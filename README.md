@@ -3,7 +3,7 @@
 [About Us](#about-us) | [Insurance Discounts](#insurance-discounts) | [Recommended Actions](#actions-for-this-year)
 
 
-[Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html) | [Log Time & Investment](https://forms.gle/9SiHNTzaY7ipKmKU8) | [Join the Email List](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List)
+[Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html) | [Log Time & Investment](https://winkleramy.github.io/Firewise/ParticipantResources.html#Log) | [Join the Email List](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List)
 
 # Mt Bache Loma Prieta Plus Firewise Community
 
@@ -20,7 +20,7 @@ We logged a combined $225k in 2025 in wildfire resilience efforts!
 
 Keep the momentum going in 2026! We are all so proud of our logged investment in wildfire-resilience. Reporting these community numbers shows our firefighters, leaders, and insurance industry that we are doing the work for a more sustainable future. Thank you all and please continue!
 
-- [Log Time & Investment](https://forms.gle/9SiHNTzaY7ipKmKU8)
+- [Log Time & Investment](https://winkleramy.github.io/Firewise/ParticipantResources.html#Log)
 - [Recommended Actions for this Year](#actions-for-this-year)
 
 
