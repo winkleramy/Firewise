@@ -11,12 +11,12 @@ Welcome!
 
 To check if your property is within our Firewise community boundary: 
 - Search for your address on [Santa Cruz County's Firewise Map](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0), 
-  or... 
+  *or*
 - Visit our [Interactive Community Map](https://winkleramy.github.io/MtBacheLoma/map.html)
-  - The community boundary is drawn in blue
+  - Community boundary drawn in blue
   - Zoom in on your specific property to confirm the address number
 
-We logged a combined $225k in 2025 in wildfire resilience efforts!
+We logged a combined $225k in 2025 in wildfire resilience efforts! Read more Highlights in our [February Newsletter](https://winkleramy.github.io/Firewise/Newsletters/Newsletter_2026-01.pdf)
 
 Keep the momentum going in 2026! We are all so proud of our logged investment in wildfire-resilience. Reporting these community numbers shows our firefighters, leaders, and insurance industry that we are doing the work for a more sustainable future. Thank you all and please continue!
 
@@ -35,7 +35,9 @@ Wildfire Resilience Through:
 
 ## About Us
 
-Our community formed in December 2024 after our four-person steering committee submitted a Community Risk Assessment and Three-year Action Plan to the National Fire Protection Agency. We could not have done it without the support of more than 30 households who responded to our initial outreach and without the support of our Firewise Coordinator, Lynn Sestak, with the Santa Cruz County Fire Safe Council. Read more about Firewise in Santa Cruz County at <a href="https://www.firesafesantacruz.org/firewise-usa-recognition-program">https://www.firesafesantacruz.org/firewise-usa-recognition-program
+Our community formed in December 2024 after our four-person steering committee submitted a Community Risk Assessment and Three-year Action Plan to the National Fire Protection Agency. We could not have done it without the support of more than 30 households who responded to our initial outreach or without the support of our Firewise Coordinator, Lynn Sestak, with the Santa Cruz County Fire Safe Council! 
+
+Read more about Firewise in Santa Cruz County at <a href="https://www.firesafesantacruz.org/firewise-usa-recognition-program">https://www.firesafesantacruz.org/firewise-usa-recognition-program
 
 Our community has expanded since then to include 80 properties from the Mount Bache / Highland junction up to and including parts of Loma Prieta Way, shown in our [Interactive Community Map](https://winkleramy.github.io/MtBacheLoma/map.html)
 
@@ -49,12 +51,11 @@ Our community has expanded since then to include 80 properties from the Mount Ba
 From left to right, Alyssa Plicka, Amy Winkler, Marilyn Thelen, Jim Parker
 </p>
 
-To contact our steering committee with questions, comments, suggestions, email [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Firewise%20Questions%20and%20Feedback)
+We would love to hear from you! Email us at [firewise@mtbacheloma.org](mailto:firewise@mtbacheloma.org?subject=Firewise%20Questions%20and%20Feedback) with questions and feedback
 
-Participation in Firewise within Santa Cruz County is very high and growing every year! Peruse the latest Firewise community maps at...
+Participation in Firewise within Santa Cruz County is very high and growing every year! Peruse the latest Firewise community maps at:
 
 - [NFPA GIS Map](https://nfpa.maps.arcgis.com/apps/Viewer/index.html?appid=c4a788340df748f18d98d8363145bb67) of Firewise communities nationwide
-
 - [Santa Cruz County GIS Map](https://sccgis.maps.arcgis.com/apps/instant/basic/index.html?appid=2f4184e0622f48009be27031318be8e0) of Firewise communities within Santa Cruz County
 
 ## Insurance Discounts
