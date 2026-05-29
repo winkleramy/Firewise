@@ -163,7 +163,7 @@ We encourage everyone to complete **at least one wildfire preparedness activity 
 
 See our upcoming events:
 
-📅 [Events](https://firewise.mtbacheloma.org/Events.html)
+📅 [Events](https://calendar.google.com/calendar/embed?src=baebbed4023dfc414c114ee726824de9cbf3a98083e653fee9a006328c3efb3b@group.calendar.google.com&ctz=America/Los_Angeles&mode=AGENDA)
 
 Firewise participation typically includes logging at least:
 
