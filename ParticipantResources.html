@@ -1,7 +1,7 @@
 <!DOCTYPE html>
         <html>
         <head>
-            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
             <title>Firewise Participant Resources</title>
             <style>
 /* From extension vscode.github */
@@ -18,24 +18,26 @@
 }
 
 </style>
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
-<link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css">
 <style>
             body {
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-family: system-ui, sans-serif;
                 font-size: clamp(16px, 2vw, 20px);
-                line-height: 1.6;
-                margin-top: 0px;
-                margin-bottom: 50px;
-                margin-right: 50px;
-                margin-left: 50px;
-                text-align: left;
+                line-height: 1.5;
+                max-width: 980px;
+                margin: 0 auto;
+                padding: 16px;
             }
 
             h1 {
-                font-size: clamp(2rem, 5vw, 3rem);
+                font-size: 1.8em;
+                font-weight: 600;
+                line-height: 1.25;
+
+                padding-bottom: 0.3em;
+                margin-bottom: 16px;
+
+                border-bottom: 1px solid #d0d7de;
             }
 
             h2 {
@@ -60,6 +62,34 @@
 
 li{
   margin: 10px 0px
+}
+
+.hero-logo {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 1rem auto;
+}
+
+.tagline {
+    text-align: center;
+    font-style: italic;
+    color: #555;
+    margin-bottom: 1.5rem;
+}
+
+.quick-links {
+    list-style: none;
+    padding-left: 0;
+}
+
+.quick-links li {
+    margin: 0.5rem 0;
+}
+
+.thank-you {
+    text-align: center;
+    font-size: 1.1em;
 }
 
 .task-list-item {
@@ -97,6 +127,13 @@ li{
 
 </style>
 <style>
+  .markdown-body {
+    box-sizing: border-box;
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
 .markdown-alert {
   padding: 0.5rem 1rem;
   margin-bottom: 16px;
@@ -170,25 +207,36 @@ li{
 </style>
         
 </head>
-<body class="vscode-body vscode-light">
-    <img src="https://raw.githubusercontent.com/winkleramy/Firewise/main/Logo2.png" width="1600">
+<body>
+  <article class="markdown-body">
 <h1 id="firewise-participant-resources">Firewise Participant Resources</h1>
+    <img src="https://raw.githubusercontent.com/winkleramy/Firewise/main/Logo3.png" 
+      alt="Firewise Logo"
+     class="hero-logo">
 
-<p>
-  <a href="https://winkleramy.github.io/Firewise/">Home</a> |
-  <a href="https://winkleramy.github.io/Firewise/Events.html">Events</a> |
-  <a href="#Log">Log Time & Investment</a> |
-  <a href="#pge-brush-management">File Complaint against PG&E</a>
-</p>
-<p>
-  <a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/">Community Map Project</a> |
-  <a href="#contractors">Contractor Directory</a> |
-  <a href="#recognizing-fire-risks">Educational Materials</a>
-</p>
+     <p class="tagline">
+      Helping our community improve wildfire resilience through
+      home hardening, defensible space, evacuation planning, and education.
+      </p>
+      <hr>
 
-<p align="center"> &#128151 <strong>Thank you for participating in Firewise</strong> &#128151 </p>
+<h2>Quick Links</h2>
 
-<p>We are here to support each other's wildfire resiliency efforts. All requests and recommendations below are <em>completely voluntary</em>. We welcome your participation and applaud your efforts!</p> 
+<ul class="quick-links">
+  <li><a href="https://winkleramy.github.io/Firewise/">&#127968 Home</a></li>
+  <li><a href="https://calendar.google.com/calendar/embed?src=baebbed4023dfc414c114ee726824de9cbf3a98083e653fee9a006328c3efb3b@group.calendar.google.com&ctz=America/Los_Angeles&mode=AGENDA">&#128197 Events</a></li>
+  <li><a href="#Log">&#128221 Log Time & Investment</a></li>
+  <li><a href="#contractors">&#128296 Contractor Directory</a></li>
+  <li><a href="https://winkleramy.github.io/MtBacheLomaPrietaPlus/">&#128506 Community Map Project</a></li>
+  <li><a href="#recognizing-fire-risks">&#127794 Educational Materials</a></li>
+  <li><a href="#pge-brush-management">&#9889 File Complaint Against PG&E</a></li>
+</ul>
+
+<hr>
+
+<p class="thank-you"> &#128151 <strong>Thank you for participating in Firewise</strong> &#128151 </p>
+
+<p>We are here to support each other's wildfire resiliency efforts. All requests and recommendations below are <em>completely voluntary</em>. We welcome your participation and celebrate your efforts!</p> 
 
 <h2 id="Log">Logging Time & Investment</h2>
  
@@ -282,5 +330,6 @@ Visit <a href="https://www.cpuc.ca.gov">www.cpuc.ca.gov</a> to take action
 
             <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
             
+            </article>
         </body>
         </html>

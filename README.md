@@ -1,4 +1,4 @@
-# Mt Bache Loma Prieta Plus Firewise Community
+# Mt Bache Loma Prieta Plus
 
 ![Firewise Logo](Logo3.png)
 
@@ -11,7 +11,7 @@
 * 🛠 **[Participant Resources](https://winkleramy.github.io/Firewise/ParticipantResources.html)**
 * 💰 **[Insurance Discounts](#insurance-discounts)**
 * 📝 **[Log Time & Investment](https://winkleramy.github.io/Firewise/ParticipantResources.html#Log)**
-* 📅 **[Upcoming Events](https://winkleramy.github.io/Firewise/Events.html)**
+* 📅 **[Upcoming Events](https://calendar.google.com/calendar/embed?src=baebbed4023dfc414c114ee726824de9cbf3a98083e653fee9a006328c3efb3b@group.calendar.google.com&ctz=America/Los_Angeles&mode=AGENDA)**
 * 📧 **[Join the Email List](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List)**
 
 ---
