@@ -12,7 +12,7 @@
 * 💰 **[Insurance Discounts](#insurance-discounts)**
 * 📝 **[Log Time & Investment](https://winkleramy.github.io/Firewise/ParticipantResources.html#Log)**
 * 📅 **[Upcoming Events](https://calendar.google.com/calendar/embed?src=baebbed4023dfc414c114ee726824de9cbf3a98083e653fee9a006328c3efb3b@group.calendar.google.com&ctz=America/Los_Angeles&mode=AGENDA)**
-* 📧 **[Join the Email List](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List)**
+* 📧 **[Join the Email List](mailto:mtbacheloma+subscribe@groups.io)** — *send blank email, then look for a confirmation email with instructions to complete your subscription*
 
 ---
 
@@ -99,7 +99,7 @@ Our priorities come from our Community Survey and **[Risk Assessment](Community%
 
 * Sign up for a **free Home Ignition Zone assessment** through the Santa Cruz County Fire Safe Council, [https://www.firesafesantacruz.org/HIZ](https://www.firesafesantacruz.org/HIZ)
   
-* [Join our email list](mailto:firewise@mtbacheloma.org?subject=Add%20Me%20to%20the%20Mt%20Bache%20Loma%20Prieta%20Plus%20Email%20List) before March to receive early access to the Resource Conservation District's
+* [Join our email list](mailto:mtbacheloma+subscribe@groups.io) by sending a black email to  before March to receive early access to the Resource Conservation District's
   - 🌿 [***Spring No-Cost Chipping Program***](https://www.rcdsantacruz.org/spring-chipping-information)
 
 ---
@@ -141,9 +141,16 @@ Register for Santa Cruz County emergency alerts:
 * 🚨 **CruzAware**
 [https://cruzaware.genasys.com/portal/en](https://cruzaware.genasys.com/portal/en)
 
-You can also [contact us](mailto:firewise@mtbacheloma.org?subject=Add%20my%20cell%20number%20to%20neighborhood%20WhatsApp) to join the **neighborhood WhatsApp group** for emergency communication.
+You can also join the [**neighborhood WhatsApp group**](https://chat.whatsapp.com/CjqtEJyoEUNF0Z68AfFy4p?mode=gi_t) for emergency communication
 
 If needed, install WhatsApp first: [https://www.whatsapp.com/](https://www.whatsapp.com/)
+
+Consider joining our neighborhood MURS (multi-use radio service) group. MURS radios communicate directly with one another and do not require cell service, internet access, or an amateur radio license.
+
+* Learn more about MURS at [Santa Cruz County CERT](https://santacruzcountycert.org/communications-resources)
+* We recommend the [BTech MURS-V2](https://baofengtech.com/product/murs-v2/)
+* Radios should be programmed with [Santa Cruz County Emergency Communications MURS configuration](https://xczcomm.com/index.php/frequency-list/) to ensure compatibility with other participating radios 
+* **Need help?** You can [contact me](mailto:firewise@mtbacheloma.org) for help programming your BTech MURS-V2 and for information about our specific neighborhood channels
 
 Practice alternate evacuation routes such as:
 
